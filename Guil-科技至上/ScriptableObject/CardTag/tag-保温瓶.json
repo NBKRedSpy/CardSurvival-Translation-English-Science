@@ -1,8 +1,8 @@
 {
-    "InGameName": {
-        "DefaultText": "\u4fdd\u6e29",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "UniqueOnBoard": false
+  "InGameName": {
+    "DefaultText": "保温",
+    "LocalizationKey": "translate-51c85c51-6eae-484c-a757-43d605233699",
+    "ParentObjectID": ""
+  },
+  "UniqueOnBoard": false
 }

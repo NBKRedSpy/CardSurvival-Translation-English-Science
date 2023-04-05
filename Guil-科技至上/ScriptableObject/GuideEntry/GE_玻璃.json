@@ -1,31 +1,31 @@
 {
-    "AssociatedCards": [],
-    "AssociatedCardsWarpData": [
-        "389fec323e6b458f91ded3acd244fe20"
-    ],
-    "AssociatedCardsWarpType": 3,
-    "AssociatedStats": [],
-    "ExplicitPage": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideDescription": {
-        "DefaultText": "\u73bb\u7483\u662f\u7528\u6c99\u5b50\u5728\u70e4\u5236\u53f0\u70e4\u51fa\u6765\u7684\uff01",
-        "LocalizationKey": "",
-        "ParentObjectID": "d007ca9e4fbcd274ea78f41766fe54bd"
-    },
-    "OverrideIllustration": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideIllustrationWarpData": "\u73bb\u7483",
-    "OverrideIllustrationWarpType": 3,
-    "OverrideTitle": {
-        "DefaultText": "\u73bb\u7483",
-        "LocalizationKey": "",
-        "ParentObjectID": "d007ca9e4fbcd274ea78f41766fe54bd"
-    },
-    "RelatedEntries": [],
-    "RelatedEntriesWarpData": [],
-    "RelatedEntriesWarpType": 3
+  "AssociatedCards": [],
+  "AssociatedCardsWarpData": [
+    "389fec323e6b458f91ded3acd244fe20"
+  ],
+  "AssociatedCardsWarpType": 3,
+  "AssociatedStats": [],
+  "ExplicitPage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideDescription": {
+    "DefaultText": "玻璃是用沙子在烤制台烤出来的！",
+    "LocalizationKey": "translate-7d40d00b-b277-40e0-9436-9206086ec939",
+    "ParentObjectID": "d007ca9e4fbcd274ea78f41766fe54bd"
+  },
+  "OverrideIllustration": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideIllustrationWarpData": "玻璃",
+  "OverrideIllustrationWarpType": 3,
+  "OverrideTitle": {
+    "DefaultText": "玻璃",
+    "LocalizationKey": "translate-ece812ba-7f16-44e8-adce-147380bb84fb",
+    "ParentObjectID": "d007ca9e4fbcd274ea78f41766fe54bd"
+  },
+  "RelatedEntries": [],
+  "RelatedEntriesWarpData": [],
+  "RelatedEntriesWarpType": 3
 }

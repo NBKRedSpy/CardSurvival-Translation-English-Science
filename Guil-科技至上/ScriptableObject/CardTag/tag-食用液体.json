@@ -1,8 +1,8 @@
 {
-    "InGameName": {
-        "DefaultText": "tag-\u53ef\u98df\u7528\u6db2\u4f53",
-        "LocalizationKey": "",
-        "ParentObjectID": "370de9af1a7aed64e816e6f4d008eca7"
-    },
-    "UniqueOnBoard": false
+  "InGameName": {
+    "DefaultText": "tag-可食用液体",
+    "LocalizationKey": "translate-164f64e3-2295-4975-b492-2245bab394a0",
+    "ParentObjectID": "370de9af1a7aed64e816e6f4d008eca7"
+  },
+  "UniqueOnBoard": false
 }

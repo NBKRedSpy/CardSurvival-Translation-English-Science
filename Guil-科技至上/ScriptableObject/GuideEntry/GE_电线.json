@@ -1,34 +1,34 @@
 {
-    "AssociatedCards": [],
-    "AssociatedCardsWarpData": [
-        "3a2f1e52962011ed9d80047c16184f06",
-        "8bd20548962011edbf01047c16184f06"
-    ],
-    "AssociatedCardsWarpType": 3,
-    "AssociatedStats": [],
-    "ExplicitPage": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideDescription": {
-        "DefaultText": "\u7535\u7ebf\u662f\u8fde\u901a\u53d1\u7535\u673a\u3001\u7528\u7535\u5668\u4e0e\u7535\u7f51\u7684\u91cd\u8981\u5de5\u5177\uff0c\u4f7f\u7528\u94dc\u677f\u5236\u4f5c\u3002",
-        "LocalizationKey": "",
-        "ParentObjectID": "a08e8330b22d0c3478b6628f2d21aff8"
-    },
-    "OverrideIllustration": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideIllustrationWarpData": "\u7535\u7ebf",
-    "OverrideIllustrationWarpType": 3,
-    "OverrideTitle": {
-        "DefaultText": "\u7535\u7ebf",
-        "LocalizationKey": "",
-        "ParentObjectID": "a08e8330b22d0c3478b6628f2d21aff8"
-    },
-    "RelatedEntries": [],
-    "RelatedEntriesWarpData": [
-        "GE_\u53d1\u7535\u673a"
-    ],
-    "RelatedEntriesWarpType": 3
+  "AssociatedCards": [],
+  "AssociatedCardsWarpData": [
+    "3a2f1e52962011ed9d80047c16184f06",
+    "8bd20548962011edbf01047c16184f06"
+  ],
+  "AssociatedCardsWarpType": 3,
+  "AssociatedStats": [],
+  "ExplicitPage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideDescription": {
+    "DefaultText": "电线是连通发电机、用电器与电网的重要工具，使用铜板制作。",
+    "LocalizationKey": "translate-714709a0-b283-47c9-8969-5c8244398a83",
+    "ParentObjectID": "a08e8330b22d0c3478b6628f2d21aff8"
+  },
+  "OverrideIllustration": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideIllustrationWarpData": "电线",
+  "OverrideIllustrationWarpType": 3,
+  "OverrideTitle": {
+    "DefaultText": "电线",
+    "LocalizationKey": "translate-72225f0b-bbbf-43fe-bd50-60f077a1e4b3",
+    "ParentObjectID": "a08e8330b22d0c3478b6628f2d21aff8"
+  },
+  "RelatedEntries": [],
+  "RelatedEntriesWarpData": [
+    "GE_发电机"
+  ],
+  "RelatedEntriesWarpType": 3
 }

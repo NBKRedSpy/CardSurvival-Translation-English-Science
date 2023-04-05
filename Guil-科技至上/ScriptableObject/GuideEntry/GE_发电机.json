@@ -1,38 +1,38 @@
 {
-    "AssociatedCards": [],
-    "AssociatedCardsWarpData": [
-        "05f0ad7b99b511ed9f47c475ab46ec3f",
-        "9e71b5d893ec11edb374047c16184f06",
-        "fb3d9ffaa5a547609c3ddd9869a5ffb6",
-        "a4494b5a50ae41478114ac3525984997",
-        "d2fff23a3737420fa90e3af40315b406"
-    ],
-    "AssociatedCardsWarpType": 3,
-    "AssociatedStats": [],
-    "ExplicitPage": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideDescription": {
-        "DefaultText": "1.\u53d1\u7535\u673a\u662f\u63a8\u52a8\u79d1\u6280\u8fdb\u5165\u7535\u529b\u65f6\u4ee3\u7684\u91cc\u7a0b\u7891\u30022.\u5927\u90e8\u5206\u7684\u53d1\u7535\u673a\u5728\u5236\u9020\u8fc7\u7a0b\u4e2d\uff0c\u9700\u8981\u7528\u5230\u201c\u78c1\u77f3\u201d\u30023.\u53ea\u6709\u592a\u9633\u80fd\u53d1\u7535\u673a\u72ec\u7279\u7684\u4f7f\u7528\u5230\u4e86\u950c\u548c\u7845\u30024.\u6c34\u529b\u53d1\u7535\u673a\u4ec5\u80fd\u5728\u201c\u7965\u548c\u6eaa\u8c37\u201d\u5efa\u9020\uff08\u9700\u8981\u81ea\u7136\u9882\u6b4cmod\uff09\u3002",
-        "LocalizationKey": "",
-        "ParentObjectID": "d007ca9e4fbcd274ea78f41766fe54bd"
-    },
-    "OverrideIllustration": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideIllustrationWarpData": "Digi_\u7535\u529b",
-    "OverrideIllustrationWarpType": 3,
-    "OverrideTitle": {
-        "DefaultText": "\u53d1\u7535\u673a",
-        "LocalizationKey": "",
-        "ParentObjectID": "d007ca9e4fbcd274ea78f41766fe54bd"
-    },
-    "RelatedEntries": [],
-    "RelatedEntriesWarpData": [
-        "GE_\u78c1\u77f3",
-        "GE_\u7845"
-    ],
-    "RelatedEntriesWarpType": 3
+  "AssociatedCards": [],
+  "AssociatedCardsWarpData": [
+    "05f0ad7b99b511ed9f47c475ab46ec3f",
+    "9e71b5d893ec11edb374047c16184f06",
+    "fb3d9ffaa5a547609c3ddd9869a5ffb6",
+    "a4494b5a50ae41478114ac3525984997",
+    "d2fff23a3737420fa90e3af40315b406"
+  ],
+  "AssociatedCardsWarpType": 3,
+  "AssociatedStats": [],
+  "ExplicitPage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideDescription": {
+    "DefaultText": "1.发电机是推动科技进入电力时代的里程碑。2.大部分的发电机在制造过程中，需要用到“磁石”。3.只有太阳能发电机独特的使用到了锌和硅。4.水力发电机仅能在“祥和溪谷”建造（需要自然颂歌mod）。",
+    "LocalizationKey": "translate-18cffa1f-cef8-4ab4-9c12-0f7cdb1fb45c",
+    "ParentObjectID": "d007ca9e4fbcd274ea78f41766fe54bd"
+  },
+  "OverrideIllustration": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideIllustrationWarpData": "Digi_电力",
+  "OverrideIllustrationWarpType": 3,
+  "OverrideTitle": {
+    "DefaultText": "发电机",
+    "LocalizationKey": "translate-e14d044b-ee47-4b8a-9856-e4d88d510263",
+    "ParentObjectID": "d007ca9e4fbcd274ea78f41766fe54bd"
+  },
+  "RelatedEntries": [],
+  "RelatedEntriesWarpData": [
+    "GE_磁石",
+    "GE_硅"
+  ],
+  "RelatedEntriesWarpType": 3
 }

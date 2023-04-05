@@ -1,32 +1,32 @@
 {
-    "AssociatedCards": [],
-    "AssociatedCardsWarpData": [
-        "bee8481394a411ed82e1047c16184f06",
-        "dc62fd007c1b4c43b7fc14cbb6c76792"
-    ],
-    "AssociatedCardsWarpType": 3,
-    "AssociatedStats": [],
-    "ExplicitPage": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideDescription": {
-        "DefaultText": "\u77f3\u9525\u662f\u96d5\u523b\u77f3\u5934\u7684\u5de5\u5177\uff0c\u53ef\u4ee5\u4f7f\u7528\u71e7\u77f3\uff0b\u5927\u77f3\u5757\u5236\u4f5c\uff08\u53ef\u4ee5\u76f4\u63a5\u62d6\u52a8\uff0c\u4e5f\u53ef\u4ee5\u901a\u8fc7\u84dd\u56fe\u5236\u4f5c\uff09\u3002",
-        "LocalizationKey": "",
-        "ParentObjectID": "0d820eb3097c45949abfe1b123a7a15e"
-    },
-    "OverrideIllustration": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideIllustrationWarpData": "Digi_\u77f3\u9525",
-    "OverrideIllustrationWarpType": 3,
-    "OverrideTitle": {
-        "DefaultText": "\u77f3\u9525",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "RelatedEntries": [],
-    "RelatedEntriesWarpData": [],
-    "RelatedEntriesWarpType": 3
+  "AssociatedCards": [],
+  "AssociatedCardsWarpData": [
+    "bee8481394a411ed82e1047c16184f06",
+    "dc62fd007c1b4c43b7fc14cbb6c76792"
+  ],
+  "AssociatedCardsWarpType": 3,
+  "AssociatedStats": [],
+  "ExplicitPage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideDescription": {
+    "DefaultText": "石锥是雕刻石头的工具，可以使用燧石＋大石块制作（可以直接拖动，也可以通过蓝图制作）。",
+    "LocalizationKey": "translate-e7f7e5b2-a7b8-483d-9b50-8c2a1f56aa13",
+    "ParentObjectID": "0d820eb3097c45949abfe1b123a7a15e"
+  },
+  "OverrideIllustration": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideIllustrationWarpData": "Digi_石锥",
+  "OverrideIllustrationWarpType": 3,
+  "OverrideTitle": {
+    "DefaultText": "石锥",
+    "LocalizationKey": "translate-a0507301-6f2f-48af-93af-dfbce14db91f",
+    "ParentObjectID": ""
+  },
+  "RelatedEntries": [],
+  "RelatedEntriesWarpData": [],
+  "RelatedEntriesWarpType": 3
 }

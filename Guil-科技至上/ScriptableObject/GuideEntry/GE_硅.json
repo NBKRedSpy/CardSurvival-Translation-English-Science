@@ -1,31 +1,31 @@
 {
-    "AssociatedCards": [],
-    "AssociatedCardsWarpData": [
-        "afc4cf9a426046708a1492e88e8d7d96"
-    ],
-    "AssociatedCardsWarpType": 3,
-    "AssociatedStats": [],
-    "ExplicitPage": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideDescription": {
-        "DefaultText": "\u7845\u662f\u5404\u79cd\u5fae\u7535\u5b50\u539f\u4ef6\u53ca\u592a\u9633\u80fd\u79d1\u6280\u7684\u91cd\u8981\u7ec4\u6210\u90e8\u5206\uff0c\u4f60\u53ef\u4ee5\u5728\u201c\u8bfa\u83f2\u5361\u5c9b\u201d\u53d1\u73b0\u5b83\u3002\u4e3a\u4e86\u524d\u5f80\u201c\u8bfa\u83f2\u5361\u5c9b\u201d\uff0c\u4f60\u9700\u8981\u5728\u201c\u6c99\u6ee9\u201d\u4fee\u5efa\u201c\u6808\u6865\u201d\uff0c\u7136\u540e\u5728\u201c\u6808\u6865\u201d\u4e2d\u4fee\u5efa\u201c\u8239\u53ea\u201d\u3002",
-        "LocalizationKey": "",
-        "ParentObjectID": "0d820eb3097c45949abfe1b123a7a15e"
-    },
-    "OverrideIllustration": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "OverrideIllustrationWarpData": "\u7845",
-    "OverrideIllustrationWarpType": 3,
-    "OverrideTitle": {
-        "DefaultText": "\u7845",
-        "LocalizationKey": "",
-        "ParentObjectID": ""
-    },
-    "RelatedEntries": [],
-    "RelatedEntriesWarpData": [],
-    "RelatedEntriesWarpType": 3
+  "AssociatedCards": [],
+  "AssociatedCardsWarpData": [
+    "afc4cf9a426046708a1492e88e8d7d96"
+  ],
+  "AssociatedCardsWarpType": 3,
+  "AssociatedStats": [],
+  "ExplicitPage": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideDescription": {
+    "DefaultText": "硅是各种微电子原件及太阳能科技的重要组成部分，你可以在“诺菲卡岛”发现它。为了前往“诺菲卡岛”，你需要在“沙滩”修建“栈桥”，然后在“栈桥”中修建“船只”。",
+    "LocalizationKey": "translate-049f2325-217a-4497-bcbd-ef9b6a319464",
+    "ParentObjectID": "0d820eb3097c45949abfe1b123a7a15e"
+  },
+  "OverrideIllustration": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "OverrideIllustrationWarpData": "硅",
+  "OverrideIllustrationWarpType": 3,
+  "OverrideTitle": {
+    "DefaultText": "硅",
+    "LocalizationKey": "translate-5662ce61-13fc-45a9-8f60-393fc5a2db34",
+    "ParentObjectID": ""
+  },
+  "RelatedEntries": [],
+  "RelatedEntriesWarpData": [],
+  "RelatedEntriesWarpType": 3
 }
