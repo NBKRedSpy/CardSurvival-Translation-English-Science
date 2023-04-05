@@ -1,0 +1,36 @@
+{
+    "AssociatedCards": [],
+    "AssociatedCardsWarpData": [
+        "f836eea7cd419e24d91836ea89e7ef2d",
+        "6df3858b0eae4764096b32132955ed77",
+        "5633a02ef502d5f4897ce1ef5a6a4e9d"
+    ],
+    "AssociatedCardsWarpType": 3,
+    "AssociatedStats": [],
+    "ExplicitPage": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideDescription": {
+        "DefaultText": "\u7eb3\u5c14\u4e4b\u8c37\u662f\u4f4d\u4e8e\u5ca9\u6ee9\u548c\u9690\u79d8\u6e2f\u6e7e\u4e4b\u95f4\u7684\u4e00\u9053\u7f8e\u4e3d\u7684\u5ce1\u8c37\uff0c\u5728\u8fd9\u91cc\u53ef\u4ee5\u53d1\u73b0\u201c\u78c1\u77f3\u201d\u3002",
+        "LocalizationKey": "",
+        "ParentObjectID": "6bf7796cedb9dfa4592555b7f5c04741"
+    },
+    "OverrideIllustration": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideIllustrationWarpData": "\u7eb3\u5c14\u4e4b\u8c37",
+    "OverrideIllustrationWarpType": 3,
+    "OverrideTitle": {
+        "DefaultText": "\u7eb3\u5c14\u4e4b\u8c37",
+        "LocalizationKey": "",
+        "ParentObjectID": "6bf7796cedb9dfa4592555b7f5c04741"
+    },
+    "RelatedEntries": [],
+    "RelatedEntriesWarpData": [
+        "GE_\u78c1\u77f3",
+        "GE_Rocks"
+    ],
+    "RelatedEntriesWarpType": 3
+}

@@ -1,0 +1,34 @@
+{
+    "AssociatedCards": [],
+    "AssociatedCardsWarpData": [
+        "3a2f1e52962011ed9d80047c16184f06",
+        "8bd20548962011edbf01047c16184f06"
+    ],
+    "AssociatedCardsWarpType": 3,
+    "AssociatedStats": [],
+    "ExplicitPage": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideDescription": {
+        "DefaultText": "\u7535\u7ebf\u662f\u8fde\u901a\u53d1\u7535\u673a\u3001\u7528\u7535\u5668\u4e0e\u7535\u7f51\u7684\u91cd\u8981\u5de5\u5177\uff0c\u4f7f\u7528\u94dc\u677f\u5236\u4f5c\u3002",
+        "LocalizationKey": "",
+        "ParentObjectID": "a08e8330b22d0c3478b6628f2d21aff8"
+    },
+    "OverrideIllustration": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "OverrideIllustrationWarpData": "\u7535\u7ebf",
+    "OverrideIllustrationWarpType": 3,
+    "OverrideTitle": {
+        "DefaultText": "\u7535\u7ebf",
+        "LocalizationKey": "",
+        "ParentObjectID": "a08e8330b22d0c3478b6628f2d21aff8"
+    },
+    "RelatedEntries": [],
+    "RelatedEntriesWarpData": [
+        "GE_\u53d1\u7535\u673a"
+    ],
+    "RelatedEntriesWarpType": 3
+}

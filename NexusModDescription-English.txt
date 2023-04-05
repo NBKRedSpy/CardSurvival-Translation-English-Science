@@ -1,0 +1,259 @@
+Description:
+1. Add a power system: including various generators and electrical appliances (workbench)
+2. Add a series of workbenches (main)
+3. Add the principle of masonry
+4. Add chrysanthemum, orchid (flower, medicine)
+5. Add wooden house (Wonder)
+6. Add trestle
+
+Body:
+1. Power part
+All of the following electrical appliances need to be connected to the grid with wires to work after they are built
+Including: wires, wind turbines, hydroelectric generators, street lights
+Hydroelectric generators can only be built in Hidden Waterfall, up to 2
+Magnet Needs Ode to Nature (formerly DigiMod)
+
+All of the tables below can be removed and returned with materials (stone baths, refrigerators are not tables)
+2. Baking table
+= Indoor advanced kiln
++ Can be put into scraped leather to dry into tanned leather
++ Can be placed in mud piles and dried into dry mounds
++ No need for fuel (Happy 030)
+Has 8 slots
+Can roast feathers to get ashes
+
+3. Gardening table (original woodworking table)
+You can put 1 small branch + 1 wood point (to solve the problem of too many small branches in the later stage)
+You can put 1 long wooden stick + 2 points of wood points (to solve the problem that some mods cause too many long wooden sticks)
+Can consume 3 lumber points to produce 1 lumber
+Can be placed in mud piles and anti-cracking agents
+Consume 6 mud piles to get a large clay ball, break it up with a hammer to get 6 clay
+Consume 6 mud piles and 6 anti-crack agents to get large mud bricks, break them with a hammer to get 6 mud bricks
+
+can practice carpentry
+
+4. Brewing stand
+Can squeeze green coconut, coconut, aloe vera, sugar cane, strawberry, rape, oil palm, mango, rubber, wild dates, coffee beans, wheat
+When the liquid comes out, remember to turn it out in time, otherwise it will not be possible to squeeze out other liquids.
+It can also be connected to the grid to reduce the juicing time
+The wort obtained by squeezing wheat can be put into the fermentation barrel (requires Ode to Nature (formerly DigiMod)), fermented for two days to obtain ale
+Ale can relieve pain and increase courage, but it will lower the mood
+
+5. Cooking station
+Can put meat + 2 meat points
+Grass can be put in + 1 dish point
+You can consume 1 meat + 1 dish point to produce exquisite dishes
+Cooking function with stove (dll fixed, but draft still possible)
+
+6. Stonecut Table
+Can put 1 small stone + 1 stone point
+Can consume 3 stone points to produce 1 big stone
+The stone-cut table can store sulfur, up to 50 pieces, without smell
+Masonry can be practiced
+7. Pharmacy table
+Ginger can be added to get ginger tea
+You can put jasmine flower to get jasmine honey tea
+Can be put in aloe vera to get aloe vera cream
+You can put kava and spider orchid into it to get kava preparation and spider orchid preparation respectively
+
+8. Stone Baths
+Can take a super clean bath or shower (save soap, start with you and me)
+
+9. Slaughter table
+Can slaughter small animal carcasses, cut open pike & salmon & scarlet carp & parrotfish, scrape leather, open sea urchin & conch & oyster
+Slaughtering tables can be connected to the grid to reduce skinning time
+An electrified slaughtering table can chop bones & boar teeth to get 2 bone meal, and chop bird bones to get 1 bone meal
+
+10. Refrigerator
+Added a refrigerator, the effect is the same as that of a fresh-keeping jar before power-on
+It can keep fresh after power on, and the capacity is increased
+
+11. Storage area
+Added storage area, built with 1 twig
+There is no additional effect, just like Rimworld's storage area, it is completely for the early classification
+can be removed
+
+12. Orchid
+Added orchids, orchid bushes can be found in wetlands
+Orchid bushes have a flower effect for bees to collect honey
+Orchids can be soaked in boiling water to get orchid tea
+Orchids can be placed in the medicine table to get orchid preparations
+Adding the effect of orchid after taking the above two can reduce lung damage
+The orchid itself can be used as a headdress
+13. Chrysanthemum
+Added chrysanthemums, which can be found in wetlands
+Chrysanthemum bushes have a flower effect for bees to collect honey
+Chrysanthemum can be soaked in boiling water to get chrysanthemum tea
+Chrysanthemum can be placed in the medicine table to get Chrysanthemum preparation
+Adding the effect of chrysanthemum after taking the above two can reduce diarrhea and strengthen immunity, but it will reduce sobriety
+Chrysanthemum itself can be used as a headdress
+
+14. The principle of masonry
+Large boulder dragged on flint. Grinding stone cone
+Increase furniture: can increase comfort
+Gorgeous lights (replaced textures to better match Rimworld stuff)
+Lighting, decompression, and entertainment
+ornate sculpture
+Fill water, decompress, add entertainment
+stone shelf
+large shelf
+15. Stone Road
+Stone roads can be built on mangroves, barren beaches, and rocky beaches, and the effect is the same as trails
+
+02-02
+Linked with the production tools of @cromzst, now the baking table can bake the molds of copper saws and hatchets
+Crafting a Baking Table now unlocks blueprints that require a kiln, such as a cooking pot (Kiln Climb!)
+New location: flower table, unlocked by leaves, can store 100 rot, feces, and sea bird droppings each, and will not produce stink.
+
+02-02-1
+Fixed the black screen bug caused by not downloading production tools
+Ornate Lamp boosts brightness to 30
+
+02-05
+Ornate lamps, ornate sculptures can now only be built indoors
+Add to drink: Poplar nectar, available by mixing coconut and mango juice, to enhance entertaining.
+Pharmacy desk can be powered on
+Adjust slaughter table power consumption
+Fixed a translation error for the orchid effect
+
+02-06
+New exchange for Gardening Table: 3 sawdust for 1 twig
+The wood of the gardening table is changed to a point display, and 3 points are exchanged for 1 wood
+
+02-07
+The effect of orchid and chrysanthemum can be found in the compound
+
+02-08
+The baking station can bake sago pulp into sago flour
+Moved jasmine honey tea from pharmacy stand to brewing stand
+You can put lemongrass and jasmine into the medicine table to get the corresponding essential oils (remember to transfer them out in time)
+Gardening Bench for practicing gardening to improve Herbology skills
+02-08-01
+Roasting station can roast leaves
+The grill can be powered on
+Increased slots to 16 after power-up
+heat up faster
+
+02-11
+Modify the map of poplar nectar
+You can customize the number of flower tables taken out at a time in config, and the default is 1
+(The config file is in Card Survival Tropical Island\BepInEx\config)
+(The config file name of this mod: Plugin.Rimworld.cfg)
+(If there is no config file, it will be there after entering the game once)
+
+02-12 to 02-15
+Bug fixes here and there
+
+02-16
+New Research Bench
+The research platform can only be used after it is powered on (requires 30 electricity), please don’t build it too early, otherwise you won’t be able to use it after you build it
+You can spend 15 minutes drawing a technology blueprint at the research table
+You can spend 15 minutes studying a technology blueprint, which can advance the current research project for an additional 30 minutes
+If there is no research project currently, the consumed blueprint will be returned, and then -5 mood (for nothing!)
+
+02-17
+The Research Bench without power can also be used
+Spend 30 minutes making a rough blueprint, then spend 30 minutes studying it to advance the current research project by an additional 30 minutes
+
+Added air conditioner, crafting 75 to unlock
+Need to power up! ! ! ! ! ! 30 electricity
+
+Can be cooled and heated (15 points)
+
+Thanks to @见得 for the stickers
+
+02-19
+Powered Research Bench to draw elaborate blueprints
+Draw for 1 hour Study for 1 hour Accelerate your research for 2 hours
+
+Add water dispenser
+There are four slots that can boil water, salt water, unsafe water, poisonous water, and coconut water into boiling water
+Boiled water can be poured into the water dispenser to keep warm
+Ideas from @六天假
+
+02-19-01
+Fix water dispenser blueprint bug
+Added fresh-keeping bucket, crafting and unlocking is the same as cooking pot
+Can keep all liquids fresh, including mod's
+does not need to be refrigerated
+
+02-21
+Fix refrigerator container tag (not important)
+Modify the relevant textures of the technology blueprint
+After failing to study the technology blueprint, the blueprint will no longer be returned (because there are three kinds of blueprints, an error will be returned)
+Removed the sound effect of the baking table
+
+Fix air conditioner blueprint bug
+Chrysanthemum orchids add tag-tea, tag-flower linkage warm soup
+
+Added map: Valley of Nar
+Rock Beach or Hidden Harbor Explore 50% to discover
+Explore Montreal to connect to rocky beaches and hidden havens
+Exploration can find magnets
+Lodestones can be directly mined with an ax/pick (production tool)
+
+ex: The relocation of the magnets has been completed. In the subsequent updates, Songs of Nature and Forui from Heaven will no longer be able to obtain magnets
+
+Added: Tailoring Desk
+Putting a line can be used as fuel, every time repairing clothes consumes one fuel
+It takes 3 minutes to repair clothes each time Clothes durability +1000
+30 minutes to sew at a tailor table without electricity
+Power up requires 20 electricity
+Needles used by blueprints will not be returned, nor will they be returned if the tailoring table is dismantled (your needles are worn out)!
+
+02-23
+Add trestle:
+Carpentry is unlocked at 30 points, which belongs to the environmental transformation of the beach, and you can go to the trestle bridge after completion
+On the trestle, you can unlock the environment modification of the ship, and get three routes after completion, and each rowing consumes 1tp:
+to bird rock island
+Go to Norfica Island: silicon is available, other ecosystems have no ideas for now...
+Go to Alkique Island: Zinc can be obtained, other ecosystems have no ideas for the time being...
+Added solar generator
+Unlock with silicon, material: wood + silicon + zinc + copper
++100 power after power on
+It doesn't need a magnet
+02-23-01
+Fix the bug that the brewing stand cannot squeeze strawberries (I forgot to delete the liquid limit in the previous test!)
+
+02-23-02
+Wind power and solar power generation limit the tag to tag-EnvOpen (you can add this tag if other people’s maps are linked), including beaches, grasslands, highlands, and mysterious valleys
+Newly added thermal power and macaque power generation, which can be done anywhere
+
+02-26
+Add blueprints and in-game instructions to Stone Cone, the original production method can still be produced
+The water dispenser can no longer boil salt water
+Wire added in-game instructions
+The power generation of hydroelectric generators is halved (the original ones will not be affected) (learn from yoyo's good example)
+Theoretically fix the problem that Houtianzhong's technology is not unlocked (untested)
+
+02-26-01
+Added new building: Chalet (Guil's Wonder)
+Log Cabin Blueprint: Unlocked at Carpentry Level 30
+
+Wooden house: The wooden house is a large building, divided into four parts: the first floor of the wooden house, the second floor of the wooden house, the roof of the wooden house, and the yard of the wooden house.
+It supports the construction of any basic scene. I haven’t tried it yet if it supports the nesting doll scene. No one should build a house in the cellar!
+
+The first floor of the wooden house: indoor environment, capacity 10w, connected to the outside world, the second floor, and the yard, where the second floor and the yard can be built (just like you repair the door!)
+Most importantly, you can nest dolls! ! ! ! (e.g. you can build cellars here (via Imp, not done yet))
+
+The second floor of the wooden house: indoor environment, capacity 10w, connected to the first floor and the roof, you can build a roof here (just like you repair the door!)
+Although unreasonable, nesting dolls can also be used here (mysterious second-floor cellar...)
+
+Roof of wooden house: outdoor environment, capacity 10w, connected to the second floor, what kind of solar power generation and wind power generation are designed in the design
+Although unreasonable, nesting dolls can also be used here (mysterious roof cellar...)
+
+Wooden house yard: outdoor environment, capacity 10w, connected to the first floor, what kind of greenhouses, corrals and so on are designed
+Matryoshka can also be used!
+
+Special Note: The entire archive only supports one log cabin, building multiple log cabins will also return the same log cabin, so please do not build multiple log cabins, although access to the original scene will not be affected...
+In layman's terms: this wooden house belongs to the dimensional rift, and you can go back and forth from any map, but the wooden house you enter is the same.
+
+Other features have not been designed yet, pending design and update
+
+PS: The way to obtain the glass: put the sand in the baking table and bake it
+
+03-17
+Add a treadmill
+window can look
+A freezer can be produced when the refrigerator is plugged in
+You can put water in the freezer to get ice
