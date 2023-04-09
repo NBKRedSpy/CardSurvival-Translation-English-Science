@@ -338,7 +338,6 @@ public class Rimworld : BaseUnityPlugin
 			cardData3.CookingRecipes.CopyTo(cardData2.CookingRecipes, num2);
 			cardData4.CookingRecipes = cardData2.CookingRecipes;
 		}
-		//TODO: If card name is affected, this has to be addressed.
 		if (card_dict.TryGetValue("Guil-科技至上_花桌", out cardData) && 花桌数量 != 1)
 		{
 			for (int j = 0; j <= 2; j++)
@@ -411,7 +410,6 @@ public class Rimworld : BaseUnityPlugin
 			{
 				找出液体s.Add(value2);
 			}
-			//Todo:  card name translation question.
 			if (value2.CardType != CardTypes.Location || !value2.name.StartsWith("Guil-科技至上_") || value2.DismantleActions.Count <= 0)
 			{
 				continue;
