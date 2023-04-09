@@ -434,7 +434,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个石架子",
-    "LocalizationKey": "translate-44fc6ac1-b3d4-4b1c-bfe3-bcfd5c142ef2",
+    "LocalizationKey": "T-VrHdiB89N9BwWB2zuw1Q4a3MOcc=",
     "ParentObjectID": "1219d1e9964711ed83fb047c16184f06"
   },
   "CardImage": {
@@ -446,7 +446,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "石制架子",
-    "LocalizationKey": "translate-fe01cf73-bfe2-4e00-906d-11eeb5344e1a",
+    "LocalizationKey": "T-18Fnk1jHK1w89QzuB3TE/Ish8H8=",
     "ParentObjectID": "1219d1e9964711ed83fb047c16184f06"
   },
   "CardTags": [],
@@ -3616,7 +3616,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "需要石头",
-    "LocalizationKey": "translate-f008e6a9-3e6b-405f-b3c2-8ee42081ec9e",
+    "LocalizationKey": "T-AYCh9lfSjK3ctuVkTk9m392GFF4=",
     "ParentObjectID": "1219d1e9964711ed83fb047c16184f06"
   },
   "UsageDurability": {

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一张粗糙的科技蓝图，可以通过研读它来加快研究进程（2TP），但研读需要花更多时间。",
-    "LocalizationKey": "translate-1875ac5d-0e46-48fa-a185-8390331ad355",
+    "LocalizationKey": "T-4RWHcTxUWZFdkVwz1VWY3/klEhs=",
     "ParentObjectID": "a24e812752b24b5888a06a114f0ebba6"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "粗糙的科技蓝图",
-    "LocalizationKey": "translate-0d850664-9e32-4662-9c96-67d5ca2e505f",
+    "LocalizationKey": "T-3IWJ29aa+H7B/dJKM6Gq/urZTSk=",
     "ParentObjectID": "a24e812752b24b5888a06a114f0ebba6"
   },
   "CardTags": [],
@@ -190,7 +190,7 @@
       },
       "ActionName": {
         "DefaultText": "研读蓝图",
-        "LocalizationKey": "Guil-Lantu",
+        "LocalizationKey": "Guil-Lantu_The",
         "ParentObjectID": "7d9e4815a1ea11ed8602c475ab46ec3f"
       },
       "ActionSounds": [],

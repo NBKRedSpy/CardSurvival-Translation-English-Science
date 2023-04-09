@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台充满燃料的火力发电机，可以产生电力，不过我首先需要用电线把它接入电网。",
-    "LocalizationKey": "translate-441c2d14-d241-4748-864b-67ea3648a9a1",
+    "LocalizationKey": "T-eDjdbLd/g0sxuRCM6AcQt+IDqjc=",
     "ParentObjectID": "4dd655d2404642b7a1e2ccad478e617a"
   },
   "CardImage": {
@@ -121,7 +121,7 @@
       },
       "ActionName": {
         "DefaultText": "接入电网",
-        "LocalizationKey": "translate-cbb52ef6-3075-42a3-ac89-8ff234b74354",
+        "LocalizationKey": "T-byXKiGBqDMaPAczTSvHnH4hk5Ck=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -472,7 +472,7 @@
   ],
   "CardName": {
     "DefaultText": "火力发电机-未通电",
-    "LocalizationKey": "translate-a2b8242b-4151-429a-9d6a-ad6c0f190a6e",
+    "LocalizationKey": "T-zcAuwY7N1RDSn7OYuIHgjJptSrI=",
     "ParentObjectID": "4dd655d2404642b7a1e2ccad478e617a"
   },
   "CardTags": [],

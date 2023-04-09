@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "离开栈桥。",
-    "LocalizationKey": "translate-0cc0c2cb-6add-4789-b8b0-57798a21cbb5",
+    "LocalizationKey": "T-8uI/08nLNU0HC/hNofpQtjCQ/mk=",
     "ParentObjectID": "34b6a9c832bb42a690626084511bcc3a"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "离开",
-    "LocalizationKey": "translate-437208d8-9e18-4f45-af0a-7850e3f2cea1",
+    "LocalizationKey": "T-C6GJBTwNxnbvd9Es2vwp8HQAVKI=",
     "ParentObjectID": "34b6a9c832bb42a690626084511bcc3a"
   },
   "CardTags": [],
@@ -221,7 +221,7 @@
       "ExtraDurabilityModifications": [],
       "FadeMessage": {
         "DefaultText": "离开栈桥……",
-        "LocalizationKey": "translate-5d2e8e0f-b6ff-40a9-b1d2-b2ab8cc3cd42",
+        "LocalizationKey": "T-FC92qhpqR4AUTCLRYURwNUkN230=",
         "ParentObjectID": "fff7f9e1fdce48b3bae1b84af456b57b"
       },
       "FadeTips": false,

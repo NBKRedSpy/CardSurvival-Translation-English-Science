@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一盏路灯，可以为我提供照明，前提是我先用电线通上电。",
-    "LocalizationKey": "translate-020a6782-a1b6-40ca-8620-d360ef085bba",
+    "LocalizationKey": "T-h7B9RTPzgnErP9j/rrWA3k9KLew=",
     "ParentObjectID": "53df0e2d98b011ed99d2c475ab46ec3f"
   },
   "CardImage": {
@@ -121,7 +121,7 @@
       },
       "ActionName": {
         "DefaultText": "接入电网",
-        "LocalizationKey": "translate-cbb52ef6-3075-42a3-ac89-8ff234b74354",
+        "LocalizationKey": "T-byXKiGBqDMaPAczTSvHnH4hk5Ck=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -488,7 +488,7 @@
   ],
   "CardName": {
     "DefaultText": "路灯-未通电",
-    "LocalizationKey": "translate-94efe8ba-b8bd-41c4-b271-8310e51c43a1",
+    "LocalizationKey": "T-rTm6Aa3xaGT/HyRrOfIfzDTWugU=",
     "ParentObjectID": "53df0e2d98b011ed99d2c475ab46ec3f"
   },
   "CardTags": [],

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台水力发电机，可以产生电力，不过我首先需要用电线把它接入电网。",
-    "LocalizationKey": "translate-00361b76-10b7-4a0d-a435-e06930f31cf0",
+    "LocalizationKey": "T-HIHJz29VIZkHgQfkFHBfbG119kc=",
     "ParentObjectID": "c5f3eb5099b211ed90d4c475ab46ec3f"
   },
   "CardImage": {
@@ -121,7 +121,7 @@
       },
       "ActionName": {
         "DefaultText": "接入电网",
-        "LocalizationKey": "translate-cbb52ef6-3075-42a3-ac89-8ff234b74354",
+        "LocalizationKey": "T-byXKiGBqDMaPAczTSvHnH4hk5Ck=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -472,7 +472,7 @@
   ],
   "CardName": {
     "DefaultText": "水力发电机-未通电",
-    "LocalizationKey": "translate-97e5a526-eac0-49af-b943-b1f45f6eb238",
+    "LocalizationKey": "T-0I1IfTMRChCDkNWNXEbI9IspxPg=",
     "ParentObjectID": "c5f3eb5099b211ed90d4c475ab46ec3f"
   },
   "CardTags": [],

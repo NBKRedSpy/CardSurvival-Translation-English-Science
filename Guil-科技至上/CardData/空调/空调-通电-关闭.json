@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "一个空调，可以调节房间的温度。",
-    "LocalizationKey": "translate-c1099d83-cffb-410c-b93d-61d2ca1c8f8f",
+    "LocalizationKey": "T-OD5PplB9uVAT45onPXk/QhVNMqU=",
     "ParentObjectID": "01d6c6f068844b7b89e19fb8445a6695"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "空调（关机）",
-    "LocalizationKey": "translate-c3d5a407-d8dc-4737-9be8-ccf594c4c5d1",
+    "LocalizationKey": "T-zu5K6QceqQYbwMkAgze4irRmkw4=",
     "ParentObjectID": "01d6c6f068844b7b89e19fb8445a6695"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "吹热风",
-        "LocalizationKey": "translate-ba3208bd-428e-4f6a-8767-9071d2aa1f93",
+        "LocalizationKey": "T-k+sufNauJ++ganyvE0I4PbCfk9k=",
         "ParentObjectID": "4dcbd8e78ff411ed824ec475ab46ec3f"
       },
       "ActionSounds": [],
@@ -397,7 +397,7 @@
       },
       "ActionName": {
         "DefaultText": "吹冷风",
-        "LocalizationKey": "translate-9711addb-5f6e-498f-ae62-2a3753be87c0",
+        "LocalizationKey": "T-FOL0ataKDTBscYJdza7QkthAWm0=",
         "ParentObjectID": "4dcbd8e78ff411ed824ec475ab46ec3f"
       },
       "ActionSounds": [],

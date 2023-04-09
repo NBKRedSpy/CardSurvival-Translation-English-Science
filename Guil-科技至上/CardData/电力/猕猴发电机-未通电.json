@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台猕猴发电机，可以产生电力，不过我首先需要用电线把它接入电网。",
-    "LocalizationKey": "translate-dab80b56-353e-45f7-b910-78168069036e",
+    "LocalizationKey": "T-m1pYB4R5K9GlExVH9GQYDuwChOk=",
     "ParentObjectID": "94b78982a86c4befaa4f8d70ff5be3bd"
   },
   "CardImage": {
@@ -121,7 +121,7 @@
       },
       "ActionName": {
         "DefaultText": "接入电网",
-        "LocalizationKey": "translate-cbb52ef6-3075-42a3-ac89-8ff234b74354",
+        "LocalizationKey": "T-byXKiGBqDMaPAczTSvHnH4hk5Ck=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -472,7 +472,7 @@
   ],
   "CardName": {
     "DefaultText": "猕猴发电机-未通电",
-    "LocalizationKey": "translate-bddcbcc1-33b2-4139-8b1c-aad2937a86e5",
+    "LocalizationKey": "T-JW3SXK0Bd/IrBGkodJWM8PCkDIU=",
     "ParentObjectID": "94b78982a86c4befaa4f8d70ff5be3bd"
   },
   "CardTags": [],

@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "前往隐秘港湾",
-    "LocalizationKey": "translate-2cfca585-2da2-4575-b053-ab2770115ff4",
+    "LocalizationKey": "T-2o0FGyFvqez2Z6erpK4orW+tngM=",
     "ParentObjectID": "d5bcbbf8b34a4e42b2c8229408935fac"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "隐秘港湾",
-    "LocalizationKey": "translate-5f1e9e25-73ec-40dd-bbc2-98308cc4dfc8",
+    "LocalizationKey": "T-+qd15oN9F5uJhlR+GyR67F4ZMxQ=",
     "ParentObjectID": "d5bcbbf8b34a4e42b2c8229408935fac"
   },
   "CardTags": [],
@@ -222,7 +222,7 @@
       "ExtraDurabilityModifications": [],
       "FadeMessage": {
         "DefaultText": "移动到隐秘港湾……",
-        "LocalizationKey": "translate-5c0038d2-b481-4c4f-b95b-cae3ce153e98",
+        "LocalizationKey": "T-VOFcGJjSiNlU2YNzP4JydojNV2U=",
         "ParentObjectID": "d5bcbbf8b34a4e42b2c8229408935fac"
       },
       "FadeTips": false,

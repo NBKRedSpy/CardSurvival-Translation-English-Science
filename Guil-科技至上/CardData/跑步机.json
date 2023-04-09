@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "一台跑步机，我可以在上面跑步。",
-    "LocalizationKey": "translate-8892c434-dce2-4f57-9ede-4547e387a62b",
+    "LocalizationKey": "T-+kDogu1Qx8yriLe7oaA6ddgzChY=",
     "ParentObjectID": "4ee3d3e8606849fa9eb058fe3b6501bb"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "跑步机",
-    "LocalizationKey": "translate-d5ec0a7e-7ea9-4037-8840-c4a9645d8828",
+    "LocalizationKey": "T-QXvT8pkpglyX/kvV0z6d4cYgdK8=",
     "ParentObjectID": "4ee3d3e8606849fa9eb058fe3b6501bb"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "跑步",
-        "LocalizationKey": "translate-52174871-98c0-40b9-9dcb-d67aea0ee764",
+        "LocalizationKey": "T-jrL81pfrqBfQmpwcQ2zJMnU4L0Y=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

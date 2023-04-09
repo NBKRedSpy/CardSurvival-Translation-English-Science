@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "散风热、平肝明目",
-    "LocalizationKey": "translate-d61b6616-16b5-4171-99b1-b886852b753c",
+    "LocalizationKey": "T-PQ9FBeOrLi+9lldlHibJTow3ZlE=",
     "ParentObjectID": "5b6ba6d2a17d11ed85fbc475ab46ec3f"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "菊花茶",
-    "LocalizationKey": "translate-33ab905c-ac9e-43b6-87f6-0ca49a594c7d",
+    "LocalizationKey": "T-ma6E4Wo9zKscFhcakUVa7ux5gog=",
     "ParentObjectID": "5b6ba6d2a17d11ed85fbc475ab46ec3f"
   },
   "CardTags": [],

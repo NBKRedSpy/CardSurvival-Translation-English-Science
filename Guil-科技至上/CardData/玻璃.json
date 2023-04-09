@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一块玻璃！",
-    "LocalizationKey": "translate-b690adf0-a581-4f07-b026-f90f3b986b7c",
+    "LocalizationKey": "T-fUH2o1w6lEztKygY7XAZNZpPQF0=",
     "ParentObjectID": "389fec323e6b458f91ded3acd244fe20"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "玻璃",
-    "LocalizationKey": "translate-ece812ba-7f16-44e8-adce-147380bb84fb",
+    "LocalizationKey": "T-nZCm5egXEi874ycSPRvzUWkbAHA=",
     "ParentObjectID": "389fec323e6b458f91ded3acd244fe20"
   },
   "CardTags": [],

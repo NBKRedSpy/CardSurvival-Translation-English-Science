@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一盏路灯，可以为我提供照明。",
-    "LocalizationKey": "translate-2f79443c-c1e8-449a-9f87-b48fd3050bac",
+    "LocalizationKey": "T-+VQowC/lJLA3tgk9qzJvoFG+Q+s=",
     "ParentObjectID": "a68031d5962111ed80ef047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "路灯-通电",
-    "LocalizationKey": "translate-baa8d11c-3b60-4363-881f-3449282c16b6",
+    "LocalizationKey": "T-O+RaObO8xf/GGm7amdq1EYXPfpk=",
     "ParentObjectID": "a68031d5962111ed80ef047c16184f06"
   },
   "CardTags": [],

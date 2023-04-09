@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "进入木屋",
-    "LocalizationKey": "translate-ec6b9db0-14ea-4b23-942b-60ef40921666",
+    "LocalizationKey": "T-LvIQ+3qQn8OOFsxno+r2dAMihv0=",
     "ParentObjectID": "f0a59b7f908842b7a4a867f567019de4"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "木屋",
-    "LocalizationKey": "translate-c15bd0ad-26d6-47cb-86f4-0a25a5699949",
+    "LocalizationKey": "T-PWKzMPEJl+OHupF3QZk3tYX3QfI=",
     "ParentObjectID": "f0a59b7f908842b7a4a867f567019de4"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "进入木屋",
-        "LocalizationKey": "Guil_Muwu",
+        "LocalizationKey": "Guil_Muwu_Enter",
         "ParentObjectID": "f0a59b7f908842b7a4a867f567019de4"
       },
       "ActionSounds": [],

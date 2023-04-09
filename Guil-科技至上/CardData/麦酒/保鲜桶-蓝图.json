@@ -382,7 +382,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个保鲜桶！",
-    "LocalizationKey": "translate-8572f0f7-114b-4bac-ab9b-d90f9993b9f2",
+    "LocalizationKey": "T-DF5/cGwhba+1OuOI7eH0Maoaa4c=",
     "ParentObjectID": "f2fcff0119264a2a8973536638b8e664"
   },
   "CardImage": {
@@ -394,7 +394,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "保鲜桶",
-    "LocalizationKey": "translate-fb4acb39-b08e-457b-a622-233733f5bd45",
+    "LocalizationKey": "T-fKAc1ym23AODsXp5K6CfViPUdZg=",
     "ParentObjectID": "f2fcff0119264a2a8973536638b8e664"
   },
   "CardTags": [],

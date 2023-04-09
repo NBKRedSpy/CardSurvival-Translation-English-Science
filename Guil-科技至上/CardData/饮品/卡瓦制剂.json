@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "处理过的卡瓦制剂，药效更强。",
-    "LocalizationKey": "translate-bbfee640-6402-4b66-bcb1-139c9bb5b62b",
+    "LocalizationKey": "T-tEADPTKaafQ319/lEmfH5pXktxQ=",
     "ParentObjectID": "b0abcb2d9a2511ed9d54047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "卡瓦制剂",
-    "LocalizationKey": "translate-b2ed2c45-0d9b-4c62-bce8-888973acf949",
+    "LocalizationKey": "T-4okMWpaHpGx8hjue7j5U+yZrXVo=",
     "ParentObjectID": "b0abcb2d9a2511ed9d54047c16184f06"
   },
   "CardTags": [],

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "处理过的椰汁，蛮好喝的。",
-    "LocalizationKey": "translate-ed5aad5e-a064-4a0b-baad-6797b207c8ff",
+    "LocalizationKey": "T-OfYXfrw4JNh4e9Uy+KLc+EqcBRU=",
     "ParentObjectID": "f9d87b88970b11ed922e047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "椰汁",
-    "LocalizationKey": "translate-d0ed87b2-f104-4189-bcae-1fe8fd053e3e",
+    "LocalizationKey": "T-WKTOpU8mLgVcOuXUXV01NpHKVWw=",
     "ParentObjectID": "f9d87b88970b11ed922e047c16184f06"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "饮用",
-        "LocalizationKey": "translate-cae46078-6815-49d1-8d87-89c720b9f67f",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": "f9d87b88970b11ed922e047c16184f06"
       },
       "ActionSounds": [],

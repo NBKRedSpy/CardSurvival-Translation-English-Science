@@ -508,7 +508,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台火力发电机，可以产生电力。",
-    "LocalizationKey": "translate-5148e414-54d0-4d9b-9e39-71f0642d51c6",
+    "LocalizationKey": "T-rY9Bs3pxGXHHjOe6ep3AXCQFFck=",
     "ParentObjectID": "fb3d9ffaa5a547609c3ddd9869a5ffb6"
   },
   "CardImage": {
@@ -520,7 +520,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "火力发电机",
-    "LocalizationKey": "translate-d8286ea3-75c0-4fb6-a54b-890925b9af97",
+    "LocalizationKey": "T-OnOU3CJQPuHOrLocbLFnZFp8Mh4=",
     "ParentObjectID": "fb3d9ffaa5a547609c3ddd9869a5ffb6"
   },
   "CardTags": [],
@@ -3690,7 +3690,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "需要磁石",
-    "LocalizationKey": "translate-7dde2592-4cb2-471c-b2e6-2f0889133d7e",
+    "LocalizationKey": "T-sy2yBrvBVxCUKtAg28NuntdG3Zw=",
     "ParentObjectID": "fb3d9ffaa5a547609c3ddd9869a5ffb6"
   },
   "UsageDurability": {

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个精美好看的花桌，可以用来存放腐烂物及粪便，并用花香掩盖其臭味。",
-    "LocalizationKey": "translate-9c3d7bd0-f16d-4f88-82e5-e732d0067f85",
+    "LocalizationKey": "T-UujIR/b5BINuw8m2cw7ujeHMfkc=",
     "ParentObjectID": "d7c0f3eda2d711eda31bc475ab46ec3f"
   },
   "CardImage": {
@@ -121,7 +121,7 @@
       },
       "ActionName": {
         "DefaultText": "装填粪便",
-        "LocalizationKey": "translate-f80ebfdf-fe9d-48e3-988f-a06812f37028",
+        "LocalizationKey": "T-LKhruOGkI5DaSS2vp6eqybAsBGY=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -468,7 +468,7 @@
       },
       "ActionName": {
         "DefaultText": "装填海鸟粪",
-        "LocalizationKey": "translate-321fe522-c1cb-4849-9848-ceb98d5bb59c",
+        "LocalizationKey": "T-3lgfmbXFwLoGb6PuWZI110rHGzE=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -815,7 +815,7 @@
       },
       "ActionName": {
         "DefaultText": "装填腐烂物",
-        "LocalizationKey": "translate-6ac5cbb4-466e-494f-ab52-df4285f81fb2",
+        "LocalizationKey": "T-ZYDO6TS90j41vbuCkqP9xXR7u5k=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -1146,7 +1146,7 @@
   ],
   "CardName": {
     "DefaultText": "花桌",
-    "LocalizationKey": "translate-10af7733-cbff-4df5-84b7-a828d699b055",
+    "LocalizationKey": "T-amWrhoiBLLqz+LQpGTybtMbsS8g=",
     "ParentObjectID": "d7c0f3eda2d711eda31bc475ab46ec3f"
   },
   "CardTags": [],
@@ -1228,7 +1228,7 @@
       },
       "ActionName": {
         "DefaultText": "产出粪便",
-        "LocalizationKey": "translate-ed18a248-1516-495a-a658-a7a6d0a90274",
+        "LocalizationKey": "T-oo2gwrjTx26lIuMqxpljFMmjkzc=",
         "ParentObjectID": "4dcbd8e78ff411ed824ec475ab46ec3f"
       },
       "ActionSounds": [],
@@ -1509,7 +1509,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "道具不足",
-          "LocalizationKey": "translate-c45ec036-26bd-44b8-894a-eab33162f22b",
+          "LocalizationKey": "T-xGjy+Z8R0vzzQ5Z8MgwlP+0dolI=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1612,7 +1612,7 @@
       },
       "ActionName": {
         "DefaultText": "产出海鸟粪",
-        "LocalizationKey": "translate-663f7240-a924-43a5-b324-5f26e3aedffc",
+        "LocalizationKey": "T-UgglWP9BL1/nQM6PG+d9CkUye6s=",
         "ParentObjectID": "4dcbd8e78ff411ed824ec475ab46ec3f"
       },
       "ActionSounds": [],
@@ -1893,7 +1893,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "道具不足",
-          "LocalizationKey": "translate-c45ec036-26bd-44b8-894a-eab33162f22b",
+          "LocalizationKey": "T-xGjy+Z8R0vzzQ5Z8MgwlP+0dolI=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -1996,7 +1996,7 @@
       },
       "ActionName": {
         "DefaultText": "产出腐烂物",
-        "LocalizationKey": "translate-98cf23a6-dc0f-448d-b657-70a7aed2745e",
+        "LocalizationKey": "T-9f0qHFzMCs4IK1UdQNV96pIMpm0=",
         "ParentObjectID": "4dcbd8e78ff411ed824ec475ab46ec3f"
       },
       "ActionSounds": [],
@@ -2277,7 +2277,7 @@
       "RequiredReceivingDurabilities": {
         "FailMessage": {
           "DefaultText": "道具不足",
-          "LocalizationKey": "translate-c45ec036-26bd-44b8-894a-eab33162f22b",
+          "LocalizationKey": "T-xGjy+Z8R0vzzQ5Z8MgwlP+0dolI=",
           "ParentObjectID": ""
         },
         "HideActionIfNotMet": false,
@@ -3327,7 +3327,7 @@
     "Active": true,
     "CardStatName": {
       "DefaultText": "粪便量",
-      "LocalizationKey": "translate-4e34883e-5702-48e7-843b-0e704c0a4bf0",
+      "LocalizationKey": "T-DUKM2hvGPczkEsRljp0Ok36snpE=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0,
@@ -3757,7 +3757,7 @@
     "Active": true,
     "CardStatName": {
       "DefaultText": "海鸟粪量",
-      "LocalizationKey": "translate-946a2949-07d5-4b99-9da5-c2334c3370ba",
+      "LocalizationKey": "T-j6UOXVrcbbUWJ2Sf6SjV/RiVOs8=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0,
@@ -4187,7 +4187,7 @@
     "Active": true,
     "CardStatName": {
       "DefaultText": "腐烂物量",
-      "LocalizationKey": "translate-73552a3e-364f-4db5-9836-e45b926c1627",
+      "LocalizationKey": "T-A9LrHMO6iMdWxsKdN4WjQPR9GPk=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0,

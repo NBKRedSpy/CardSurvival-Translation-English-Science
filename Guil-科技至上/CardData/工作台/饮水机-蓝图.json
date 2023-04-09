@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个饮水机",
-    "LocalizationKey": "translate-cab82bf0-da3f-4c3c-b11d-833853239e17",
+    "LocalizationKey": "T-33L1I4LWEQYJI3ZGlqsPgBujook=",
     "ParentObjectID": "cee48cdcb18a4139bd48c7f9ac8e80b7"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "饮水机",
-    "LocalizationKey": "translate-ce71c540-a86b-4140-a007-e1dffb8c46d2",
+    "LocalizationKey": "T-nFeUQbrgOzCibaYQ7makhPXvY3s=",
     "ParentObjectID": ""
   },
   "CardTags": [],

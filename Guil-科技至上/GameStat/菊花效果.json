@@ -32,7 +32,7 @@
   },
   "Description": {
     "DefaultText": "散风热、平肝明目，提升免疫。",
-    "LocalizationKey": "translate-aecedd41-beee-4dcd-b3de-6009ecb1ef9a",
+    "LocalizationKey": "T-VXz4eNzZnvtQBCsD5tnmXW7RHyc=",
     "ParentObjectID": "7c8f882fa17d11edab48c475ab46ec3f"
   },
   "FeedbackInfo": {
@@ -49,7 +49,7 @@
   },
   "GameName": {
     "DefaultText": "菊花效果",
-    "LocalizationKey": "translate-a05a0294-5c17-4e0a-882c-e3431946ecfb",
+    "LocalizationKey": "T-XY+t7vTjDYdAGnHxhBilDs6qdR0=",
     "ParentObjectID": "7c8f882fa17d11edab48c475ab46ec3f"
   },
   "InvertedDirection": false,
@@ -192,7 +192,7 @@
       ],
       "GameName": {
         "DefaultText": "弱菊花效果",
-        "LocalizationKey": "translate-e4d49eb5-7ca0-4406-b8ae-fcee975f2e40",
+        "LocalizationKey": "T-iiL1YCcRone77uugxX0SoYxp2HE=",
         "ParentObjectID": "c3b79628a42515f49af5d46b8e07a133"
       },
       "GameOver": false,
@@ -335,7 +335,7 @@
       ],
       "GameName": {
         "DefaultText": "强菊花效果",
-        "LocalizationKey": "translate-6ecb1b37-c366-43a2-82de-e132d84a2ee3",
+        "LocalizationKey": "T-RyTj/6aMyYF+BX26XVZBPVAl2/8=",
         "ParentObjectID": "c3b79628a42515f49af5d46b8e07a133"
       },
       "GameOver": false,

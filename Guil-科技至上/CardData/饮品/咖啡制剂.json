@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "咖啡豆制成的制剂，可以喝。",
-    "LocalizationKey": "translate-6ad51b32-6979-458d-b918-680c0e1c4493",
+    "LocalizationKey": "T-D6r/oTtcaWWz+E5Ik4ALzW6EF+k=",
     "ParentObjectID": "2a34a924a16c11edb233c475ab46ec3f"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "咖啡制剂",
-    "LocalizationKey": "translate-062596a3-5b78-44bd-984a-6920f738d947",
+    "LocalizationKey": "T-LtOjWDWsVP+COB9L9fwFw+1pkkw=",
     "ParentObjectID": "2a34a924a16c11edb233c475ab46ec3f"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "饮用",
-        "LocalizationKey": "translate-cae46078-6815-49d1-8d87-89c720b9f67f",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": "2a34a924a16c11edb233c475ab46ec3f"
       },
       "ActionSounds": [],

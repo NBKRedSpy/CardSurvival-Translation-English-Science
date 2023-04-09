@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一大块泥砖，我应该用东西把它打撒。",
-    "LocalizationKey": "translate-aedbc063-5020-4fb6-95c9-74d74f8398c6",
+    "LocalizationKey": "T-K7GgvaH1xMYzndlLMq+HJ8jboEY=",
     "ParentObjectID": "c44d3ad4a1e911ed9657c475ab46ec3f"
   },
   "CardImage": {
@@ -121,7 +121,7 @@
       },
       "ActionName": {
         "DefaultText": "打撒",
-        "LocalizationKey": "translate-ba8d0002-d473-4ce4-97da-1db2d87982b3",
+        "LocalizationKey": "T-oSDVFZqyKCghOUZu61ZNz1wcQXU=",
         "ParentObjectID": "c44d3ad4a1e911ed9657c475ab46ec3f"
       },
       "ActionSounds": [],
@@ -644,7 +644,7 @@
   ],
   "CardName": {
     "DefaultText": "大泥砖块",
-    "LocalizationKey": "translate-e1a9da31-6325-49f5-850a-674dcc37c6f8",
+    "LocalizationKey": "T-HlMoPbTFew2O8PcUeuFC1Mzc54w=",
     "ParentObjectID": "c44d3ad4a1e911ed9657c475ab46ec3f"
   },
   "CardTags": [],

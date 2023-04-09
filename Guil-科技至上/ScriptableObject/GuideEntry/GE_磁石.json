@@ -11,7 +11,7 @@
   },
   "OverrideDescription": {
     "DefaultText": "磁石是各种发电机的重要原料，你可以在“纳尔之谷”找到它。",
-    "LocalizationKey": "translate-60832474-10a7-42ef-997e-fb5d87e6cf09",
+    "LocalizationKey": "T-HSvsk25zbKpeNqstd73r5klGRi4=",
     "ParentObjectID": "a08e8330b22d0c3478b6628f2d21aff8"
   },
   "OverrideIllustration": {
@@ -22,7 +22,7 @@
   "OverrideIllustrationWarpType": 3,
   "OverrideTitle": {
     "DefaultText": "磁石",
-    "LocalizationKey": "translate-434eb4b6-ea2d-4992-9310-13cd33049bd5",
+    "LocalizationKey": "T-UCBgxLPnOwBdAaa243mNn8f3GWw=",
     "ParentObjectID": "a08e8330b22d0c3478b6628f2d21aff8"
   },
   "RelatedEntries": [],

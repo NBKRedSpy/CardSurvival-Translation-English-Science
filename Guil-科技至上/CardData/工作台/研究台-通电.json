@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "一个通电了的研究台，我可以在这里绘制科技蓝图。",
-    "LocalizationKey": "translate-ee056064-46c4-49ad-849a-af01e98ba599",
+    "LocalizationKey": "T-LmowbWVicADGskn+PXD0DVGPjL8=",
     "ParentObjectID": "c6a5cf84256d45859f2e769f94a8ebe8"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "研究台-通电",
-    "LocalizationKey": "translate-407ededc-1fa3-4c33-9d19-ac43fe8d982a",
+    "LocalizationKey": "T-SA0gYzh4Lnxndq2rt1Q8zmmsS3w=",
     "ParentObjectID": "c6a5cf84256d45859f2e769f94a8ebe8"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "绘制蓝图",
-        "LocalizationKey": "translate-b63f9dac-9740-4228-990e-0bb9766a155e",
+        "LocalizationKey": "T-oPqm8r+Cxt4Gg3ZKubLlFIuyfCo=",
         "ParentObjectID": "4dcbd8e78ff411ed824ec475ab46ec3f"
       },
       "ActionSounds": [],
@@ -566,7 +566,7 @@
       },
       "ActionName": {
         "DefaultText": "拆除",
-        "LocalizationKey": "translate-2b6c0c60-4f37-4c0c-9405-0f0b16cac57b",
+        "LocalizationKey": "T-5Vbc1DoG2wO5Cu6T4mTWzns33Yg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -960,7 +960,7 @@
       },
       "ActionName": {
         "DefaultText": "精制蓝图",
-        "LocalizationKey": "translate-95df0146-07cb-4af6-9ac7-cd7c11ac3476",
+        "LocalizationKey": "T-1hYEXBcsIRY/49TEdvVy3nIVotc=",
         "ParentObjectID": "4dcbd8e78ff411ed824ec475ab46ec3f"
       },
       "ActionSounds": [],

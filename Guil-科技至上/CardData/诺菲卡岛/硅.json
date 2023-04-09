@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一块硅，是太阳能及电子科技的重要原料。",
-    "LocalizationKey": "translate-aa7e0a32-8b4b-48f6-8e13-f8d3e0b8b4c4",
+    "LocalizationKey": "T-EtYxoIvHAMODZ7iQ24ZGVLCoVOA=",
     "ParentObjectID": "afc4cf9a426046708a1492e88e8d7d96"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "硅",
-    "LocalizationKey": "translate-5662ce61-13fc-45a9-8f60-393fc5a2db34",
+    "LocalizationKey": "T-adWa9AZNTzb0Fw9oe32C8wi6rqE=",
     "ParentObjectID": "afc4cf9a426046708a1492e88e8d7d96"
   },
   "CardTags": [],

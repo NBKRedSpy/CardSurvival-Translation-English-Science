@@ -397,7 +397,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一座华丽的雕塑",
-    "LocalizationKey": "translate-16533fd0-4058-4fc4-8271-f39fef573b64",
+    "LocalizationKey": "T-aUSh5x4OoMdj6328jdry3HsJSl8=",
     "ParentObjectID": "4325e3ec964511ed9e98047c16184f06"
   },
   "CardImage": {
@@ -409,7 +409,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "华丽雕塑",
-    "LocalizationKey": "translate-7c4778f3-5542-4041-9a3c-ada62e3c5606",
+    "LocalizationKey": "T-pUaXBch8CXFbD+Usqe+Zw7FrvGo=",
     "ParentObjectID": "4325e3ec964511ed9e98047c16184f06"
   },
   "CardTags": [],
@@ -3582,7 +3582,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "需要更高的石工技能",
-    "LocalizationKey": "translate-99ed0f07-205b-4239-b519-6f5ea10f8f4d",
+    "LocalizationKey": "T-ygZFbjEcYoZ46gLCYLPWZZIDKOY=",
     "ParentObjectID": "4325e3ec964511ed9e98047c16184f06"
   },
   "UsageDurability": {

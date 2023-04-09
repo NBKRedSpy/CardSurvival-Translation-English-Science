@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "养阴润肺，利水渗湿，清热解毒",
-    "LocalizationKey": "translate-96c48d96-0e64-45e4-9b4e-b0c8a3b3cddd",
+    "LocalizationKey": "T-LK2WEPbB5gdhrqBSJ84GildVGjQ=",
     "ParentObjectID": "a1f30528a17811ed80a9c475ab46ec3f"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "兰花茶",
-    "LocalizationKey": "translate-e801a8d2-3e5e-48f5-87e6-ede680d53003",
+    "LocalizationKey": "T-mEQHG6RERBrLPXRFqK235rW52e4=",
     "ParentObjectID": "a1f30528a17811ed80a9c475ab46ec3f"
   },
   "CardTags": [],

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台火力发电机，可以产生电力，不过我首先需要填充燃料。",
-    "LocalizationKey": "translate-d2eca670-55ed-4166-b9ca-514d6863d8a5",
+    "LocalizationKey": "T-NOSIshqeNKChXIZxhqKqH6SZ7H4=",
     "ParentObjectID": "dbdfd0c1a2414aaeb120dafbe25cf06d"
   },
   "CardImage": {
@@ -2182,7 +2182,7 @@
   ],
   "CardName": {
     "DefaultText": "火力发电机-无燃料",
-    "LocalizationKey": "translate-b355b70d-c84b-46d6-b6b3-cb79e60124c7",
+    "LocalizationKey": "T-q1cGrnlgDL5HNPMHcRmrl92teMY=",
     "ParentObjectID": "dbdfd0c1a2414aaeb120dafbe25cf06d"
   },
   "CardTags": [],
@@ -2263,7 +2263,7 @@
     "Active": true,
     "CardStatName": {
       "DefaultText": "燃料",
-      "LocalizationKey": "translate-541e52ba-2469-4805-b790-17a69e9a4741",
+      "LocalizationKey": "T-AoRI+br1T3sXzu1/J/Hk3MUAV3M=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0,
@@ -2291,7 +2291,7 @@
       },
       "ActionName": {
         "DefaultText": "燃料充足",
-        "LocalizationKey": "translate-7d7243c0-5278-4dc0-9856-f2c911bbdd75",
+        "LocalizationKey": "T-oQeFyCs8dB+//XrvsASG3fQ2wEU=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

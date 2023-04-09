@@ -382,7 +382,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一卷电线，可以将设备接入电网。",
-    "LocalizationKey": "translate-c1e566c7-7432-4f4a-834a-dbc16c947780",
+    "LocalizationKey": "T-oKQDdNIxc2Zkc0T6C3YOq2ksSis=",
     "ParentObjectID": "8bd20548962011edbf01047c16184f06"
   },
   "CardImage": {
@@ -394,7 +394,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "电线",
-    "LocalizationKey": "translate-72225f0b-bbbf-43fe-bd50-60f077a1e4b3",
+    "LocalizationKey": "T-ThK7Ch1R4NuIvYWAsZH7Jr0RIDQ=",
     "ParentObjectID": "8bd20548962011edbf01047c16184f06"
   },
   "CardTags": [],

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一块冰！最好别吃，对肠胃不好。",
-    "LocalizationKey": "translate-c88b7624-0993-4475-bb5e-c8d5b54ba985",
+    "LocalizationKey": "T-2FkR3gBADaTzHpSAjFzNVhXZjfw=",
     "ParentObjectID": "b1d69e1b95fd4244b66b1c89dd59f65b"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "冰",
-    "LocalizationKey": "translate-15f5d860-a5cc-46df-8a9f-04115aa11940",
+    "LocalizationKey": "T-bCCWf4oi7iL19KRX3koCRxAIKeQ=",
     "ParentObjectID": "b1d69e1b95fd4244b66b1c89dd59f65b"
   },
   "CardTags": [],

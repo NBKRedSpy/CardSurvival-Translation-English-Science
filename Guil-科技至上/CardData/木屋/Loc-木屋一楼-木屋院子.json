@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "通往木屋院子的门",
-    "LocalizationKey": "translate-37757cb8-4c96-4397-a676-0fbcb325280b",
+    "LocalizationKey": "T-OTAp6b/VvLpYA0hGqjiFdgMxg8Y=",
     "ParentObjectID": "37eac297089d4fa49c13c4fa2ab5fa2e"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "院子",
-    "LocalizationKey": "translate-932e349b-fd95-43ea-8e44-42cdad390b97",
+    "LocalizationKey": "T-50G632JHT+lF8KPshKhIIqxapzU=",
     "ParentObjectID": "37eac297089d4fa49c13c4fa2ab5fa2e"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "去院子",
-        "LocalizationKey": "translate-5c6bb135-9a6c-4ff2-acdb-abad7a62c034",
+        "LocalizationKey": "T-6MprVvhRDfZtmyw0gsqmXHlbVT4=",
         "ParentObjectID": "f0a59b7f908842b7a4a867f567019de4"
       },
       "ActionSounds": [],

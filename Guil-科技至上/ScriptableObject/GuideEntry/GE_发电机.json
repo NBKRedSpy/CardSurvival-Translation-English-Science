@@ -15,7 +15,7 @@
   },
   "OverrideDescription": {
     "DefaultText": "1.发电机是推动科技进入电力时代的里程碑。2.大部分的发电机在制造过程中，需要用到“磁石”。3.只有太阳能发电机独特的使用到了锌和硅。4.水力发电机仅能在“祥和溪谷”建造（需要自然颂歌mod）。",
-    "LocalizationKey": "translate-18cffa1f-cef8-4ab4-9c12-0f7cdb1fb45c",
+    "LocalizationKey": "T-t1mCYuKQJ/SbJT+PYYvCQ9GZihw=",
     "ParentObjectID": "d007ca9e4fbcd274ea78f41766fe54bd"
   },
   "OverrideIllustration": {
@@ -26,7 +26,7 @@
   "OverrideIllustrationWarpType": 3,
   "OverrideTitle": {
     "DefaultText": "发电机",
-    "LocalizationKey": "translate-e14d044b-ee47-4b8a-9856-e4d88d510263",
+    "LocalizationKey": "T-n405Tvl+xxVMlUPp4l0DyGB4FaA=",
     "ParentObjectID": "d007ca9e4fbcd274ea78f41766fe54bd"
   },
   "RelatedEntries": [],

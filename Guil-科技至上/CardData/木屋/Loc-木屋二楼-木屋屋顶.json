@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "通往木屋屋顶的楼梯",
-    "LocalizationKey": "translate-af97394b-9702-403c-a191-4f778a8a4fa5",
+    "LocalizationKey": "T-S5jKZ2XDPqYW8IrQuD83wsBaHz0=",
     "ParentObjectID": "1ec25cec6af044478355745ee9029f2e"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "屋顶",
-    "LocalizationKey": "translate-ed904b10-67d8-4f88-8957-99a4e2c04412",
+    "LocalizationKey": "T-2CfrjzxLaem6HeUcgCwgfhM9APw=",
     "ParentObjectID": "1ec25cec6af044478355745ee9029f2e"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "去屋顶",
-        "LocalizationKey": "translate-c2984ef8-71c8-4f83-9451-fa20b4080300",
+        "LocalizationKey": "T-Gq/sXoH4/bXoLemw4TlVXoE95UU=",
         "ParentObjectID": "f0a59b7f908842b7a4a867f567019de4"
       },
       "ActionSounds": [],

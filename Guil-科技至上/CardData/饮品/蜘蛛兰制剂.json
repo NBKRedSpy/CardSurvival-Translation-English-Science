@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "处理过的蜘蛛兰制剂，药效更强。",
-    "LocalizationKey": "translate-623d69e4-fce6-407e-a027-188fd5a95a2c",
+    "LocalizationKey": "T-wb2fm3Xkpxo2LXtCwKoYW5Aq+ss=",
     "ParentObjectID": "aa18c3d39a2511edb7ee047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "蜘蛛兰制剂",
-    "LocalizationKey": "translate-a37ee5df-04cd-4cd1-ac55-8612b8bc919c",
+    "LocalizationKey": "T-nnSmPd2xmDdC9p3VvDKoL0E3fiE=",
     "ParentObjectID": "aa18c3d39a2511edb7ee047c16184f06"
   },
   "CardTags": [],

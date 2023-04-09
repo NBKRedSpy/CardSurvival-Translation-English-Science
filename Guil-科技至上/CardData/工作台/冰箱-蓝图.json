@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "我可以在这里保存食物",
-    "LocalizationKey": "translate-56273f25-fc6b-499f-94fe-eec25f093c36",
+    "LocalizationKey": "T-qQKbf5v0FUmHCjbdVKqtU/twJPg=",
     "ParentObjectID": "6e28aa139db511edaba8047c16184f06"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "冰箱",
-    "LocalizationKey": "translate-5c2abe05-4f57-4a7a-958d-ce66aaa085a8",
+    "LocalizationKey": "T-6wl9WgiN8WWRop/RX5tKEnpVbyg=",
     "ParentObjectID": ""
   },
   "CardTags": [],

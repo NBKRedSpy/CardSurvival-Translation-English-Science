@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "一个可以被称为家的地方！",
-    "LocalizationKey": "translate-52476bc6-b2dd-4d85-8ace-4c2c8f3e78c9",
+    "LocalizationKey": "T-apba0J7UxjlEN1UjP7aXeL3DkLo=",
     "ParentObjectID": "70a03fefec4942cdbdea2b6812ad4449"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "木屋院子",
-    "LocalizationKey": "translate-cd57092b-ec0a-498b-bbcd-266939f9c17c",
+    "LocalizationKey": "T-R36EOMOlphQKFlDzJjCG1fwi3qE=",
     "ParentObjectID": "70a03fefec4942cdbdea2b6812ad4449"
   },
   "CardTags": [],

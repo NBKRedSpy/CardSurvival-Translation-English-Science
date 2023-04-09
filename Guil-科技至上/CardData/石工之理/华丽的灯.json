@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一盏华丽的灯，能带来美好的氛围。",
-    "LocalizationKey": "translate-bbc5a49c-c9f9-4731-bebf-8ae2628cabe5",
+    "LocalizationKey": "T-OhVTsukXHP5JcnKo0TWhyfDeuNo=",
     "ParentObjectID": "9d13af76964011ed8862047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "华丽的灯",
-    "LocalizationKey": "translate-18625be1-b75d-4245-b124-36ce847b7df9",
+    "LocalizationKey": "T-XgkZY5kcPp1JrwW2R55pgo985as=",
     "ParentObjectID": "9d13af76964011ed8862047c16184f06"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "关灯",
-        "LocalizationKey": "translate-d64d5828-fe36-48a9-99b9-1e4388a226cd",
+        "LocalizationKey": "T-bPe3O8RogMlR1tSz7bs+FIYaSXA=",
         "ParentObjectID": "c4f1c45a958b11ed95b0047c16184f06"
       },
       "ActionSounds": [],

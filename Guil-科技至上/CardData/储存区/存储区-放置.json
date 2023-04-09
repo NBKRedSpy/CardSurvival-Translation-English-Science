@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "人为划定的一个储存区，没有任何效果。",
-    "LocalizationKey": "translate-37f4acb8-176b-4aa8-a944-d7e19fc96ce2",
+    "LocalizationKey": "T-h+XNnFIu1luq8Z7VRg/L+ALDad8=",
     "ParentObjectID": "73b3c0daa05c11ed8218047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "储存区",
-    "LocalizationKey": "translate-40ca3dc1-c847-4d11-834f-3de07284017b",
+    "LocalizationKey": "T-cNO5UKYSO71ixXL7P+w3xz2GTSM=",
     "ParentObjectID": "73b3c0daa05c11ed8218047c16184f06"
   },
   "CardTags": [],
@@ -191,7 +191,7 @@
       },
       "ActionName": {
         "DefaultText": "拆除",
-        "LocalizationKey": "translate-2b6c0c60-4f37-4c0c-9405-0f0b16cac57b",
+        "LocalizationKey": "T-5Vbc1DoG2wO5Cu6T4mTWzns33Yg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

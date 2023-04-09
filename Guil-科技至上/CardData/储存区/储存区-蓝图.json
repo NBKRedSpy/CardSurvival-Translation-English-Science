@@ -211,7 +211,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个人为划定的储存区，没有任何效果。",
-    "LocalizationKey": "translate-59f187eb-2ed6-40e2-91fa-c6fe07f2551b",
+    "LocalizationKey": "T-GBIeFJh3FkisdePeWRTYVtnFRII=",
     "ParentObjectID": "84a12131a05d11eda48f047c16184f06"
   },
   "CardImage": {
@@ -223,7 +223,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "储存区",
-    "LocalizationKey": "translate-40ca3dc1-c847-4d11-834f-3de07284017b",
+    "LocalizationKey": "T-cNO5UKYSO71ixXL7P+w3xz2GTSM=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -3385,7 +3385,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "需要小树枝",
-    "LocalizationKey": "translate-961ac30e-ea14-4c05-b3d7-b0e6930a1824",
+    "LocalizationKey": "T-NJvc7EhW3s1JHw7S2aRgXtJ2t+c=",
     "ParentObjectID": "84a12131a05d11eda48f047c16184f06"
   },
   "UsageDurability": {

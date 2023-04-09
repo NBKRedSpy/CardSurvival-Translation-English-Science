@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "香蕉榨成的果汁，可以喝。",
-    "LocalizationKey": "translate-b34faec0-4da2-4de0-93e5-3b2aa69f75ce",
+    "LocalizationKey": "T-x473+Hmbu9B99gD0yy8BE+tdzZw=",
     "ParentObjectID": "784f07839d6d11eda7cc047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "香蕉汁",
-    "LocalizationKey": "translate-c0ecbff2-fee0-459b-a86f-ae55d526e65b",
+    "LocalizationKey": "T-93XHMW8oHHQZhuZpjvoRFKwTm58=",
     "ParentObjectID": "784f07839d6d11eda7cc047c16184f06"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "饮用",
-        "LocalizationKey": "translate-cae46078-6815-49d1-8d87-89c720b9f67f",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": "784f07839d6d11eda7cc047c16184f06"
       },
       "ActionSounds": [],

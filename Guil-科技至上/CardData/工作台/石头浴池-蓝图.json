@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "我可以在这里洗澡或冲凉",
-    "LocalizationKey": "translate-cd1fc420-8dcb-426f-9af0-e1eff02c8869",
+    "LocalizationKey": "T-OsEyYh3uwmZMKK+/sSJEr8YuEpo=",
     "ParentObjectID": "3c129a8199a811ed8f34c475ab46ec3f"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "石浴池",
-    "LocalizationKey": "translate-09ea7876-55f3-432e-8772-e856df6af99b",
+    "LocalizationKey": "T-3Fe8ceqGowsQOx+w9CsT4tbVCs4=",
     "ParentObjectID": ""
   },
   "CardTags": [],

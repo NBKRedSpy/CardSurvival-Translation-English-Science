@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "我可以在这里处理水果与果汁。",
-    "LocalizationKey": "translate-16c256b1-a081-4cd6-8efe-e07c6902a04b",
+    "LocalizationKey": "T-l0CmlR1b27Vl0R0Gt+fsNeg07/U=",
     "ParentObjectID": "5156340d970e11ed8520047c16184f06"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "酿造台",
-    "LocalizationKey": "translate-8dab2699-a10e-4811-98c5-c3af1f753a97",
+    "LocalizationKey": "T-lPeYW9+uFLgPUVLgUbFI9+RPf1A=",
     "ParentObjectID": ""
   },
   "CardTags": [],

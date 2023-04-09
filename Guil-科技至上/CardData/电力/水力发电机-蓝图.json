@@ -707,7 +707,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台水力发电机，可以产生电力。",
-    "LocalizationKey": "translate-b2507606-fe94-48ab-8784-6a42a53e3ba8",
+    "LocalizationKey": "T-2GefiL2JmUVLrKHTfQymfkoAvCQ=",
     "ParentObjectID": "05f0ad7b99b511ed9f47c475ab46ec3f"
   },
   "CardImage": {
@@ -719,7 +719,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "水力发电机",
-    "LocalizationKey": "translate-27e6ad8d-7dd7-4cc3-aa85-6d0fa953b6d0",
+    "LocalizationKey": "T-YRq6JaOWe1yZCbPLCDQ0Km0KDXc=",
     "ParentObjectID": "05f0ad7b99b511ed9f47c475ab46ec3f"
   },
   "CardTags": [],

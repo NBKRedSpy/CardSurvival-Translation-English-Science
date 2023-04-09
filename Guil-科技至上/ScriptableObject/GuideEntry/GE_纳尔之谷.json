@@ -13,7 +13,7 @@
   },
   "OverrideDescription": {
     "DefaultText": "纳尔之谷是位于岩滩和隐秘港湾之间的一道美丽的峡谷，在这里可以发现“磁石”。",
-    "LocalizationKey": "translate-cb651635-2cbb-4c47-b9f2-6929ec2aab05",
+    "LocalizationKey": "T-8bLjWN2SIveB276lA18v6bDPYDg=",
     "ParentObjectID": "6bf7796cedb9dfa4592555b7f5c04741"
   },
   "OverrideIllustration": {
@@ -24,7 +24,7 @@
   "OverrideIllustrationWarpType": 3,
   "OverrideTitle": {
     "DefaultText": "纳尔之谷",
-    "LocalizationKey": "translate-48fa06ee-ec0a-438a-8bc9-d76e5293a269",
+    "LocalizationKey": "T-MHihLihVdJZYDgHWV0cODE5jTog=",
     "ParentObjectID": "6bf7796cedb9dfa4592555b7f5c04741"
   },
   "RelatedEntries": [],

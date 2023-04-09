@@ -324,7 +324,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个石锥，可以打磨石头。",
-    "LocalizationKey": "translate-f87d5086-12cc-4c8a-9f40-f0e0ab8ad730",
+    "LocalizationKey": "T-hAYPHmMkMsUniih8zpkM7rvm6lM=",
     "ParentObjectID": "dc62fd007c1b4c43b7fc14cbb6c76792"
   },
   "CardImage": {
@@ -336,7 +336,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "石锥",
-    "LocalizationKey": "translate-a0507301-6f2f-48af-93af-dfbce14db91f",
+    "LocalizationKey": "T-XCIHjh+swbkKkRt1x77kfEaCkWA=",
     "ParentObjectID": "dc62fd007c1b4c43b7fc14cbb6c76792"
   },
   "CardTags": [],
@@ -3506,7 +3506,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "需要燧石",
-    "LocalizationKey": "translate-a5325df1-2b13-4c28-96eb-f536aa5b5d8a",
+    "LocalizationKey": "T-NHRJ4T677ivcL8ylsBUwkCbKxw4=",
     "ParentObjectID": "dc62fd007c1b4c43b7fc14cbb6c76792"
   },
   "UsageDurability": {

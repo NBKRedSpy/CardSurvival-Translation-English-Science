@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "处理过的茉莉茶，蛮好喝的。",
-    "LocalizationKey": "translate-4fbcfea2-3632-4734-a386-48b7083d6adf",
+    "LocalizationKey": "T-/CsB0KkIR+G+4EvdsDXT5QAMJIs=",
     "ParentObjectID": "5bdf948d99a511ed9c2fc475ab46ec3f"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "茉莉蜜茶",
-    "LocalizationKey": "translate-207fb42b-9db9-44f7-94a0-a723190b4cfd",
+    "LocalizationKey": "T-h77/QXkN4oBtYfW3oFy98Ekc0WQ=",
     "ParentObjectID": "5bdf948d99a511ed9c2fc475ab46ec3f"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "饮用",
-        "LocalizationKey": "translate-cae46078-6815-49d1-8d87-89c720b9f67f",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": "5bdf948d99a511ed9c2fc475ab46ec3f"
       },
       "ActionSounds": [],

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个可以放置在室内的熔炉",
-    "LocalizationKey": "translate-bb991ecc-99fb-4f1e-815d-6844d9bbb931",
+    "LocalizationKey": "T-W4mu6MnZ42fUVvtd4jamOwgV0eM=",
     "ParentObjectID": "21a8ed94976c11ed9a84047c16184f06"
   },
   "CardImage": {
@@ -121,7 +121,7 @@
       },
       "ActionName": {
         "DefaultText": "接入电网",
-        "LocalizationKey": "translate-cbb52ef6-3075-42a3-ac89-8ff234b74354",
+        "LocalizationKey": "T-byXKiGBqDMaPAczTSvHnH4hk5Ck=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -486,7 +486,7 @@
   ],
   "CardName": {
     "DefaultText": "烤制台",
-    "LocalizationKey": "translate-dbe321f8-7949-47b7-8868-2d27d4b009a9",
+    "LocalizationKey": "T-ASXJ6negfiTIIDlIZ0h3XWkrKRc=",
     "ParentObjectID": "21a8ed94976c11ed9a84047c16184f06"
   },
   "CardTags": [],
@@ -568,7 +568,7 @@
       },
       "ActionName": {
         "DefaultText": "拆除",
-        "LocalizationKey": "translate-2b6c0c60-4f37-4c0c-9405-0f0b16cac57b",
+        "LocalizationKey": "T-5Vbc1DoG2wO5Cu6T4mTWzns33Yg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一块锌，是制作简易电池的重要原料。",
-    "LocalizationKey": "translate-da317995-8fbc-47ed-be10-af49794f7f4a",
+    "LocalizationKey": "T-CakV7Fq7AWB5kdX8m88plVdjgGw=",
     "ParentObjectID": "ce55d93eb2a346c6a9c86081579db168"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "锌",
-    "LocalizationKey": "translate-90d9ed8b-6cb1-4225-86ca-2fd812eade01",
+    "LocalizationKey": "T-OdcZz6u+PeB/iIws+MY0u52TjDg=",
     "ParentObjectID": "ce55d93eb2a346c6a9c86081579db168"
   },
   "CardTags": [],

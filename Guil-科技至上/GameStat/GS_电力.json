@@ -30,7 +30,7 @@
   },
   "Description": {
     "DefaultText": "由各种设备提供的电力，可以供给其他设备。",
-    "LocalizationKey": "translate-b9386999-edda-496e-9cc1-5c8f859a5762",
+    "LocalizationKey": "T-AzIb8Pmj47+8Qo4dqo8iQFOEwfE=",
     "ParentObjectID": "15b71d9593ec11edbce7047c16184f06"
   },
   "FeedbackInfo": {
@@ -49,7 +49,7 @@
   },
   "GameName": {
     "DefaultText": "电力",
-    "LocalizationKey": "translate-106e5884-251d-40bd-bdb4-d63c7c07f92a",
+    "LocalizationKey": "T-Z9NOQk06C/4fv/9AFZFm4Z+Pr74=",
     "ParentObjectID": "15b71d9593ec11edbce7047c16184f06"
   },
   "InvertedDirection": false,
@@ -96,7 +96,7 @@
       "EffectsOnStats": [],
       "GameName": {
         "DefaultText": "有电力了！",
-        "LocalizationKey": "translate-b285984a-8005-44c0-9d61-5a498ae08b32",
+        "LocalizationKey": "T-oLaTLS4ZV6c9mq9lTqLQk487z/g=",
         "ParentObjectID": "15b71d9593ec11edbce7047c16184f06"
       },
       "GameOver": false,

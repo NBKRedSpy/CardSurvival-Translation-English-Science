@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "处理过的生姜饮品，蛮好喝的。",
-    "LocalizationKey": "translate-020b562e-0007-441d-ba28-699187d788a0",
+    "LocalizationKey": "T-hAP7nDIsBnA6eMavvCAqx4WQRA8=",
     "ParentObjectID": "3a03bb3a99a411ed84fac475ab46ec3f"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "姜茶",
-    "LocalizationKey": "translate-1df436b2-45c4-40a8-a238-f950f26ead7e",
+    "LocalizationKey": "T-IsLa4bBnucDzwNWQ6l+3EVVwIAs=",
     "ParentObjectID": "3a03bb3a99a411ed84fac475ab46ec3f"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "饮用",
-        "LocalizationKey": "translate-cae46078-6815-49d1-8d87-89c720b9f67f",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": "3a03bb3a99a411ed84fac475ab46ec3f"
       },
       "ActionSounds": [],

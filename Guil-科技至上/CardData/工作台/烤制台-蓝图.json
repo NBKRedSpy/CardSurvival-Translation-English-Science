@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个可以放置在室内的熔炉",
-    "LocalizationKey": "translate-bb991ecc-99fb-4f1e-815d-6844d9bbb931",
+    "LocalizationKey": "T-W4mu6MnZ42fUVvtd4jamOwgV0eM=",
     "ParentObjectID": "951e8dd6976c11ed92ad047c16184f06"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "烤制台",
-    "LocalizationKey": "translate-dbe321f8-7949-47b7-8868-2d27d4b009a9",
+    "LocalizationKey": "T-ASXJ6negfiTIIDlIZ0h3XWkrKRc=",
     "ParentObjectID": ""
   },
   "CardTags": [],

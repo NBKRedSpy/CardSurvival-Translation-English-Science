@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "前往纳尔之谷",
-    "LocalizationKey": "translate-7abe47e8-a524-4790-ada6-b7148e53dfc9",
+    "LocalizationKey": "T-yO6xJg+OYXRTcdRU5gsCBUz+QEs=",
     "ParentObjectID": "2987b66c9bbd4bba992c466e0544ff2c"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "纳尔之谷",
-    "LocalizationKey": "translate-48fa06ee-ec0a-438a-8bc9-d76e5293a269",
+    "LocalizationKey": "T-MHihLihVdJZYDgHWV0cODE5jTog=",
     "ParentObjectID": "2987b66c9bbd4bba992c466e0544ff2c"
   },
   "CardTags": [],
@@ -222,7 +222,7 @@
       "ExtraDurabilityModifications": [],
       "FadeMessage": {
         "DefaultText": "前往纳尔之谷……",
-        "LocalizationKey": "translate-6cb2fa45-0fde-447b-98fa-ffe23f758bcc",
+        "LocalizationKey": "T-6HJN4GYBYETcL/2+/fAc+60LKIc=",
         "ParentObjectID": "2987b66c9bbd4bba992c466e0544ff2c"
       },
       "FadeTips": false,

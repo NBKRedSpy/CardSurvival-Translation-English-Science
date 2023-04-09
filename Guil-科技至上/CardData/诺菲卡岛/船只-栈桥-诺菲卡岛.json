@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "划船去诺菲卡岛。",
-    "LocalizationKey": "translate-6235492c-a453-463d-9239-fb14d8716b27",
+    "LocalizationKey": "T-7mp/Z6AVae8eCyrr3FIuIsfoBX4=",
     "ParentObjectID": "6f065691d36c4c5a8792ae150ae6a907"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "诺菲卡岛",
-    "LocalizationKey": "translate-6f5d7158-f695-4d57-9a5b-b3e558363728",
+    "LocalizationKey": "T-Mm6oa8wzaoejZjIQpKWPZEerQ70=",
     "ParentObjectID": "6f065691d36c4c5a8792ae150ae6a907"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "划船",
-        "LocalizationKey": "translate-120a9199-77f4-43a1-a321-5e9f634b6815",
+        "LocalizationKey": "T-P+voz43DleM+PrjRsyPlAjEthSI=",
         "ParentObjectID": "6f065691d36c4c5a8792ae150ae6a907"
       },
       "ActionSounds": [],
@@ -220,7 +220,7 @@
       "ExtraDurabilityModifications": [],
       "FadeMessage": {
         "DefaultText": "划船中……",
-        "LocalizationKey": "translate-d6561e8b-d44e-4b9a-baaf-dfa153b63aa4",
+        "LocalizationKey": "T-Duzy9rrw2ComhNkbnAkBMniE6PY=",
         "ParentObjectID": "6f065691d36c4c5a8792ae150ae6a907"
       },
       "FadeTips": false,

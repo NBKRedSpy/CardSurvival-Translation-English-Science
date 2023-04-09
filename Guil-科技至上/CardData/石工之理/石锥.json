@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个由燧石磨成的锥子，可以制作石雕。",
-    "LocalizationKey": "translate-94ef3a05-6ab9-4f68-90d2-5de6aa67c6ef",
+    "LocalizationKey": "T-3YVuN+LWZ0wSvHnmEOwLTlferEU=",
     "ParentObjectID": "bee8481394a411ed82e1047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "石锥",
-    "LocalizationKey": "translate-a0507301-6f2f-48af-93af-dfbce14db91f",
+    "LocalizationKey": "T-XCIHjh+swbkKkRt1x77kfEaCkWA=",
     "ParentObjectID": "bee8481394a411ed82e1047c16184f06"
   },
   "CardTags": [],

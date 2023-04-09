@@ -121,7 +121,7 @@
       },
       "ActionName": {
         "DefaultText": "接入电网",
-        "LocalizationKey": "translate-cbb52ef6-3075-42a3-ac89-8ff234b74354",
+        "LocalizationKey": "T-byXKiGBqDMaPAczTSvHnH4hk5Ck=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -472,7 +472,7 @@
   ],
   "CardName": {
     "DefaultText": "风力发电机-未通电",
-    "LocalizationKey": "风力发电机_CardName_WeChat",
+    "LocalizationKey": "风力发电机_CardName",
     "ParentObjectID": "42a66a9393eb11edb2fb047c16184f06"
   },
   "CardTags": [],

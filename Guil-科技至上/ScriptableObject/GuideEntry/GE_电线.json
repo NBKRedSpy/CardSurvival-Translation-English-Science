@@ -12,7 +12,7 @@
   },
   "OverrideDescription": {
     "DefaultText": "电线是连通发电机、用电器与电网的重要工具，使用铜板制作。",
-    "LocalizationKey": "translate-714709a0-b283-47c9-8969-5c8244398a83",
+    "LocalizationKey": "T-DChviKgYMwXzgoe1YbTlxQqcYLA=",
     "ParentObjectID": "a08e8330b22d0c3478b6628f2d21aff8"
   },
   "OverrideIllustration": {
@@ -23,7 +23,7 @@
   "OverrideIllustrationWarpType": 3,
   "OverrideTitle": {
     "DefaultText": "电线",
-    "LocalizationKey": "translate-72225f0b-bbbf-43fe-bd50-60f077a1e4b3",
+    "LocalizationKey": "T-ThK7Ch1R4NuIvYWAsZH7Jr0RIDQ=",
     "ParentObjectID": "a08e8330b22d0c3478b6628f2d21aff8"
   },
   "RelatedEntries": [],

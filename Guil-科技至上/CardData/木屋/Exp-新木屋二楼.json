@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "一个可以被称为家的地方！",
-    "LocalizationKey": "translate-52476bc6-b2dd-4d85-8ace-4c2c8f3e78c9",
+    "LocalizationKey": "T-apba0J7UxjlEN1UjP7aXeL3DkLo=",
     "ParentObjectID": "4e89bd02a7e241229d92d9d41d653bee"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "木屋二楼",
-    "LocalizationKey": "translate-a660c76d-d702-4b01-b69f-8d29e819b673",
+    "LocalizationKey": "T-tECCp+ITeaOxIgLb1eG3S9wNGyQ=",
     "ParentObjectID": "4e89bd02a7e241229d92d9d41d653bee"
   },
   "CardTags": [],

@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "连通两处海湾的山谷，我可以在这里找到磁石。",
-    "LocalizationKey": "translate-65ae9e94-6759-4eb2-a846-0f9a63b3060e",
+    "LocalizationKey": "T-GBBWmKiIEZzfdCam/Ruz7ShW08M=",
     "ParentObjectID": "c478676f90504a738ced41730d344998"
   },
   "CardImage": {
@@ -119,7 +119,7 @@
       },
       "ActionName": {
         "DefaultText": "采矿",
-        "LocalizationKey": "translate-17b1aeca-4d10-43fb-bf8a-31408cf0a7c1",
+        "LocalizationKey": "T-0PP0VT0KCvx8QBpRXmvC68BRYnM=",
         "ParentObjectID": "cf4d515d99bd11ed9313c475ab46ec3f"
       },
       "ActionSounds": [],
@@ -742,7 +742,7 @@
       },
       "ActionName": {
         "DefaultText": "采矿",
-        "LocalizationKey": "translate-17b1aeca-4d10-43fb-bf8a-31408cf0a7c1",
+        "LocalizationKey": "T-0PP0VT0KCvx8QBpRXmvC68BRYnM=",
         "ParentObjectID": "cf4d515d99bd11ed9313c475ab46ec3f"
       },
       "ActionSounds": [],
@@ -1330,7 +1330,7 @@
   ],
   "CardName": {
     "DefaultText": "纳尔之谷",
-    "LocalizationKey": "translate-48fa06ee-ec0a-438a-8bc9-d76e5293a269",
+    "LocalizationKey": "T-MHihLihVdJZYDgHWV0cODE5jTog=",
     "ParentObjectID": "c478676f90504a738ced41730d344998"
   },
   "CardTags": [],
@@ -3319,7 +3319,7 @@
         },
         "ActionName": {
           "DefaultText": "探索完毕",
-          "LocalizationKey": "translate-96e24d2a-43ce-4fdd-a722-161fde924410",
+          "LocalizationKey": "T-coePZsxT8lSeVsREdhj0j2ve7fA=",
           "ParentObjectID": "a25785f2d51944aaa897d317b1fa4092"
         },
         "ActionSounds": [],

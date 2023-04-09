@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一盏太阳灯，开启时会消耗大量电力，能加快作物成熟。",
-    "LocalizationKey": "translate-f8d4d3b8-17c6-45f3-b5df-ca1cf7db0965",
+    "LocalizationKey": "T-rvVA7ImrolPlWBONBdrnADH/L2Q=",
     "ParentObjectID": "308e26379e2711edb318047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "太阳灯（开）",
-    "LocalizationKey": "translate-2157b831-d5f5-485b-8288-f8f76c4ed4b9",
+    "LocalizationKey": "T-d1AyXOX9yQmsDvfLV1Jc0rTsT5s=",
     "ParentObjectID": "308e26379e2711edb318047c16184f06"
   },
   "CardTags": [],

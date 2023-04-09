@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "通往木屋二楼的楼梯",
-    "LocalizationKey": "translate-e64d2e6f-35be-410f-8a5d-0115a2cc2cc1",
+    "LocalizationKey": "T-alDUdbT4NZdDVj2ntHVrAoLhWZA=",
     "ParentObjectID": "506cd80876ee402d99d719b4c0375e2b"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "楼梯",
-    "LocalizationKey": "translate-c73b0f51-f22c-4cce-826d-f403ee23774c",
+    "LocalizationKey": "T-fMkYBKSFVVsARgBEXrll1mPFfIQ=",
     "ParentObjectID": "506cd80876ee402d99d719b4c0375e2b"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "上楼",
-        "LocalizationKey": "translate-208a5955-ed22-4cc1-a8b2-d5d8601631f5",
+        "LocalizationKey": "T-zhMMzYXMr2Hc6s/BOyAYfDe6S7w=",
         "ParentObjectID": "f0a59b7f908842b7a4a867f567019de4"
       },
       "ActionSounds": [],

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台猕猴发电机，可以产生电力。",
-    "LocalizationKey": "translate-08e26fe2-8d5c-4867-b16c-1be1cd16c824",
+    "LocalizationKey": "T-b4wol6Ys6gB2P3qh5XRB16+6CM0=",
     "ParentObjectID": "a25ef8cc530342c59b3c0b3251708548"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "猕猴发电机-已通电",
-    "LocalizationKey": "translate-6436c9ec-8200-488e-ac52-11b4412d79dc",
+    "LocalizationKey": "T-orMCyg58efNQO1mEOXrLLtniO2w=",
     "ParentObjectID": "a25ef8cc530342c59b3c0b3251708548"
   },
   "CardTags": [],

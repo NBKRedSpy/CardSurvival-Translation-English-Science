@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台简易的冰箱。",
-    "LocalizationKey": "translate-ba3184a7-9aef-4899-8e3a-fd426aff1f71",
+    "LocalizationKey": "T-hbV49SzurqVMjls2VofbjEKbmPs=",
     "ParentObjectID": "d528d3f59e2211ed8cd7047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "冰箱",
-    "LocalizationKey": "translate-5c2abe05-4f57-4a7a-958d-ce66aaa085a8",
+    "LocalizationKey": "T-6wl9WgiN8WWRop/RX5tKEnpVbyg=",
     "ParentObjectID": "d528d3f59e2211ed8cd7047c16184f06"
   },
   "CardTags": [],
@@ -190,7 +190,7 @@
       },
       "ActionName": {
         "DefaultText": "放下",
-        "LocalizationKey": "translate-df31f2b9-5995-40d3-a892-442ffd5a0640",
+        "LocalizationKey": "T-QwZLtJUqczNJjqnpRdLm/kjrxMY=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

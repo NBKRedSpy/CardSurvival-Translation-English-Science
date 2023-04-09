@@ -408,7 +408,7 @@
   },
   "CardDescription": {
     "DefaultText": "改建木屋屋顶",
-    "LocalizationKey": "translate-58d4a7ba-fac8-4238-a952-35eae130012b",
+    "LocalizationKey": "T-vEmx/rZ5dte7oO1P7Qfu8KKES3k=",
     "ParentObjectID": "b12b192500bd454397130f46ca0cd2d3"
   },
   "CardImage": {
@@ -420,7 +420,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "改建屋顶",
-    "LocalizationKey": "translate-f5f4ef32-d7e0-46c5-b827-8250eceaf9f3",
+    "LocalizationKey": "T-D7nnK+NdYg+SQ+C/F+pS7t04fb0=",
     "ParentObjectID": "b12b192500bd454397130f46ca0cd2d3"
   },
   "CardTags": [],

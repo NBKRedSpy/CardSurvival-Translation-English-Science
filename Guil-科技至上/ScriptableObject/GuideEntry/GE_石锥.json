@@ -12,7 +12,7 @@
   },
   "OverrideDescription": {
     "DefaultText": "石锥是雕刻石头的工具，可以使用燧石＋大石块制作（可以直接拖动，也可以通过蓝图制作）。",
-    "LocalizationKey": "translate-e7f7e5b2-a7b8-483d-9b50-8c2a1f56aa13",
+    "LocalizationKey": "T-LgLOOrpII9kQl7A+E8IfSQs/d9k=",
     "ParentObjectID": "0d820eb3097c45949abfe1b123a7a15e"
   },
   "OverrideIllustration": {
@@ -23,7 +23,7 @@
   "OverrideIllustrationWarpType": 3,
   "OverrideTitle": {
     "DefaultText": "石锥",
-    "LocalizationKey": "translate-a0507301-6f2f-48af-93af-dfbce14db91f",
+    "LocalizationKey": "T-XCIHjh+swbkKkRt1x77kfEaCkWA=",
     "ParentObjectID": ""
   },
   "RelatedEntries": [],

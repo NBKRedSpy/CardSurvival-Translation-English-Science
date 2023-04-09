@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "我可以在这里修补衣物",
-    "LocalizationKey": "translate-7d63d9a5-5b44-48ac-9db0-9f2b4c68d6a2",
+    "LocalizationKey": "T-9u3yV4p0YerrdaPtrQgN/k/uuIM=",
     "ParentObjectID": "bc99dd446bba46899ef69a31fe637853"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "裁缝台",
-    "LocalizationKey": "translate-fdeba886-5f1a-4084-a16c-669efd0d9c3b",
+    "LocalizationKey": "T-yWjF2BHzcZNk5V6fKW+gtu25KY8=",
     "ParentObjectID": ""
   },
   "CardTags": [],

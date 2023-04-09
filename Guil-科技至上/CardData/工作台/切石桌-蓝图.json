@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "我可以在这里处理石头",
-    "LocalizationKey": "translate-17350b14-c291-4b02-aaa8-4b8b86aa9270",
+    "LocalizationKey": "T-YzGAoeTXCJwv9VjjW67wK/cQurA=",
     "ParentObjectID": "c3e5f27f971f11edba16047c16184f06"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "切石桌",
-    "LocalizationKey": "translate-737e339b-8be8-4154-afc1-2a182d096247",
+    "LocalizationKey": "T-x8h5rWtTmbb0415RXs52geCnMLw=",
     "ParentObjectID": ""
   },
   "CardTags": [],

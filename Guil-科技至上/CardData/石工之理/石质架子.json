@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个石制架子，可以摆东西",
-    "LocalizationKey": "translate-060119c8-e054-4e61-8f74-44032b62c5c2",
+    "LocalizationKey": "T-y6vpi2PGZqiQ8FKgYTQ9JgHmq2c=",
     "ParentObjectID": "9093e71c964511eda59a047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "石制架子",
-    "LocalizationKey": "translate-fe01cf73-bfe2-4e00-906d-11eeb5344e1a",
+    "LocalizationKey": "T-18Fnk1jHK1w89QzuB3TE/Ish8H8=",
     "ParentObjectID": "9093e71c964511eda59a047c16184f06"
   },
   "CardTags": [],

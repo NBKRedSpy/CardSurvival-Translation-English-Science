@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "由烹饪台制作的精致的料理，在一定程度上解决了做饭的烦恼。",
-    "LocalizationKey": "translate-dc410998-fb2c-4ff7-9947-8b681591be5b",
+    "LocalizationKey": "T-HiWdgpUPOrTMjW1tC5AuVVu89qg=",
     "ParentObjectID": "5ff3c66397ee11edbd04047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "精致料理",
-    "LocalizationKey": "translate-067e9177-11b8-45f9-89ae-88a715fb8467",
+    "LocalizationKey": "T-vnV3euC1MTyrlKg45RNsBUifhmg=",
     "ParentObjectID": "5ff3c66397ee11edbd04047c16184f06"
   },
   "CardTags": [],

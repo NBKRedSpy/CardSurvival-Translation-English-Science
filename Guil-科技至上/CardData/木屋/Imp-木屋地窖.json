@@ -1873,7 +1873,7 @@
   },
   "CardDescription": {
     "DefaultText": "修建木屋地窖",
-    "LocalizationKey": "translate-8f914b45-7339-4cc9-8761-c3e8dece2acd",
+    "LocalizationKey": "T-C0z573bDJfrQ/1W3xEy0AA76/Sc=",
     "ParentObjectID": "ccaa2f4d36124ebba0989e770624b435"
   },
   "CardImage": {
@@ -1885,7 +1885,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "修建地窖",
-    "LocalizationKey": "translate-666eb107-00c9-4503-8a50-901e9dea95d0",
+    "LocalizationKey": "T-4dXzLiAnbqlp+kkyw17A7wRAJ2o=",
     "ParentObjectID": "ccaa2f4d36124ebba0989e770624b435"
   },
   "CardTags": [],

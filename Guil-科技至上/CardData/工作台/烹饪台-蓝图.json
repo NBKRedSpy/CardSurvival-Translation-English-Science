@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "我可以在这里制作简单料理。",
-    "LocalizationKey": "translate-53647143-dae4-4d44-86c9-3f509627f720",
+    "LocalizationKey": "T-f1QdolEsgYDWOv16Pr5lobFVwYU=",
     "ParentObjectID": "460f3618968211ed8367047c16184f06"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "烹饪台",
-    "LocalizationKey": "translate-14910ebe-efbd-4779-a4c7-c3a016ec630f",
+    "LocalizationKey": "T-PmHd9MfH7K2rLmaXb6Bpun4AWiY=",
     "ParentObjectID": ""
   },
   "CardTags": [],

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "这里的风景真好看！",
-    "LocalizationKey": "translate-34aa29d2-3033-4e6d-9cdc-2b313a178439",
+    "LocalizationKey": "T-K5ByOFCdwNCYHxLBiqudx9lsiyI=",
     "ParentObjectID": "86c8285f19b6499a99a530b26cb93acc"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "看风景",
-    "LocalizationKey": "translate-eba8b1f0-c058-498a-8119-f1b4b613334f",
+    "LocalizationKey": "T-5bvz42pXQeEtaZn7Mt90ghcOT+s=",
     "ParentObjectID": "86c8285f19b6499a99a530b26cb93acc"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "继续",
-        "LocalizationKey": "translate-5fe6ee19-a2e8-4993-b945-702287d0cf67",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

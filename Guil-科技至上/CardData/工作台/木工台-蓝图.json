@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "我可以在这里处理小型木材和泥土。",
-    "LocalizationKey": "translate-f96ffa11-e54a-4d8c-bbc2-15c1a0c4f573",
+    "LocalizationKey": "T-sOIF89pPxMyLn5Bwt9tAubzh2bY=",
     "ParentObjectID": "b523fce1968111ed82da047c16184f06"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "园艺台",
-    "LocalizationKey": "translate-0f867706-1601-4912-b9ef-5526e415e86a",
+    "LocalizationKey": "T-qvX/vkcqlgJIMRUucUFNRafl7Sw=",
     "ParentObjectID": "b523fce1968111ed82da047c16184f06"
   },
   "CardTags": [],

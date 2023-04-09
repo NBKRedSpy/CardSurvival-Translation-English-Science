@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "通往木屋一楼的门",
-    "LocalizationKey": "translate-34de20e0-b98e-4d0c-859c-faf5ac60e30c",
+    "LocalizationKey": "T-Tw3OaDcd2v/I1IlxB/iCZ9gDV7k=",
     "ParentObjectID": "4d8b06371338486b8ec3b08038dc24ed"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "木屋一楼",
-    "LocalizationKey": "translate-bf6bac49-3980-41fe-b66a-15b639458460",
+    "LocalizationKey": "T-jd/enBArRFYmR0FAT51sF+GjdSY=",
     "ParentObjectID": "4d8b06371338486b8ec3b08038dc24ed"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "回一楼",
-        "LocalizationKey": "translate-12f05b38-7512-493d-b549-8b9e50c482d2",
+        "LocalizationKey": "T-JErlGAslHWq1tlwdhhhwx3wcIig=",
         "ParentObjectID": "f0a59b7f908842b7a4a867f567019de4"
       },
       "ActionSounds": [],

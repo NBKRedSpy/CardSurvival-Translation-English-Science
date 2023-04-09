@@ -11,7 +11,7 @@
   },
   "OverrideDescription": {
     "DefaultText": "硅是各种微电子原件及太阳能科技的重要组成部分，你可以在“诺菲卡岛”发现它。为了前往“诺菲卡岛”，你需要在“沙滩”修建“栈桥”，然后在“栈桥”中修建“船只”。",
-    "LocalizationKey": "translate-049f2325-217a-4497-bcbd-ef9b6a319464",
+    "LocalizationKey": "T-GK2fJVk5laYRNSbT+LZECo6vrnw=",
     "ParentObjectID": "0d820eb3097c45949abfe1b123a7a15e"
   },
   "OverrideIllustration": {
@@ -22,7 +22,7 @@
   "OverrideIllustrationWarpType": 3,
   "OverrideTitle": {
     "DefaultText": "硅",
-    "LocalizationKey": "translate-5662ce61-13fc-45a9-8f60-393fc5a2db34",
+    "LocalizationKey": "T-adWa9AZNTzb0Fw9oe32C8wi6rqE=",
     "ParentObjectID": ""
   },
   "RelatedEntries": [],

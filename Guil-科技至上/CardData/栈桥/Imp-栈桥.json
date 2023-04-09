@@ -1176,7 +1176,7 @@
   },
   "CardDescription": {
     "DefaultText": "一座栈桥，我可以从这里乘船去更多岛屿。",
-    "LocalizationKey": "translate-1f346f2c-1649-4cdf-adf8-9cb4531528c6",
+    "LocalizationKey": "T-e62BuY/ej+O1ViVUEYdnCVudDkg=",
     "ParentObjectID": "d1e2aa5abfdf4c8f818c663cbbf097d6"
   },
   "CardImage": {
@@ -1188,7 +1188,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "栈桥",
-    "LocalizationKey": "translate-1bacd11b-8aa0-42b6-a8d5-7b752b792be2",
+    "LocalizationKey": "T-4kNzm5ALRiWcJll35GQAnYtmeAc=",
     "ParentObjectID": "d1e2aa5abfdf4c8f818c663cbbf097d6"
   },
   "CardTags": [],

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一张普通的科技蓝图，可以通过研读蓝图来加快研究进程（2TP）。",
-    "LocalizationKey": "translate-321bd8d1-c165-401e-9e68-dd47df19e027",
+    "LocalizationKey": "T-bqXB6PgyoBcLBDip5wOcR7fxMWk=",
     "ParentObjectID": "66c5584b1ecc44d89e7df6eefd246726"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "普通的科技蓝图",
-    "LocalizationKey": "translate-57f805c1-5658-4ed7-bc85-72d244318552",
+    "LocalizationKey": "T-+VJ/nUOAHaur4VKzo3muLVRUwFg=",
     "ParentObjectID": "66c5584b1ecc44d89e7df6eefd246726"
   },
   "CardTags": [],
@@ -190,7 +190,7 @@
       },
       "ActionName": {
         "DefaultText": "研读蓝图",
-        "LocalizationKey": "Guil-Lantu",
+        "LocalizationKey": "Guil-Lantu_The",
         "ParentObjectID": "7d9e4815a1ea11ed8602c475ab46ec3f"
       },
       "ActionSounds": [],

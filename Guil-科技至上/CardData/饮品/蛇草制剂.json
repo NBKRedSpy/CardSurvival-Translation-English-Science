@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "蛇草制剂，不可以喝，但可以当做药水涂抹以驱虫。",
-    "LocalizationKey": "translate-b926c96f-9ed9-4f0f-8b65-531fa57ecda6",
+    "LocalizationKey": "T-kCeUr8vbKCGx6ruZJCu5oJ0W830=",
     "ParentObjectID": "32d0c7d50e7245b5bf8300359765e2eb"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "蛇草制剂",
-    "LocalizationKey": "translate-3ad06b0f-73b5-4ef9-b078-b73ac706ee50",
+    "LocalizationKey": "T-r+3fMZEiAciiplUe1HjyW9zByh4=",
     "ParentObjectID": "32d0c7d50e7245b5bf8300359765e2eb"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "涂抹",
-        "LocalizationKey": "translate-659ea899-6610-4f3a-8e9a-789bf6a8d54c",
+        "LocalizationKey": "T-1QKi0UtNarv6J/ig3avIVkqHA5g=",
         "ParentObjectID": "32d0c7d50e7245b5bf8300359765e2eb"
       },
       "ActionSounds": [],

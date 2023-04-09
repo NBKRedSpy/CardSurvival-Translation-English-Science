@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "一座受到光阴神祝福的岛屿。",
-    "LocalizationKey": "translate-64456658-ff6a-4fd1-a497-ce9538e5b31b",
+    "LocalizationKey": "T-1KyjKj+wcAumvIjZT/6wR4ZfdKA=",
     "ParentObjectID": "38b47133cd8c400f856bb6a0bde4d789"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "阿尔基克岛",
-    "LocalizationKey": "translate-e2d2788f-4517-4672-85fd-4764467cde8b",
+    "LocalizationKey": "T-LmVc0LYxKVecZSUwAM2XU9+OijE=",
     "ParentObjectID": "38b47133cd8c400f856bb6a0bde4d789"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "探索",
-        "LocalizationKey": "translate-aacc7bb7-7191-4e30-a500-b5d8d3ed485d",
+        "LocalizationKey": "T-KRhjOsgRtvfjRiwhnw2VhbEq6+M=",
         "ParentObjectID": "38b47133cd8c400f856bb6a0bde4d789"
       },
       "ActionSounds": [],

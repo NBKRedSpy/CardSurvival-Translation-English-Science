@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一座华丽的雕塑，甚至可以装水。",
-    "LocalizationKey": "translate-be754259-7ef4-4941-a886-643186fcbc55",
+    "LocalizationKey": "T-5B0SOVNEX0p3jsRw1eMk+JfvdCM=",
     "ParentObjectID": "10d91bf6964411ed9a8f047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "华丽雕塑",
-    "LocalizationKey": "translate-7c4778f3-5542-4041-9a3c-ada62e3c5606",
+    "LocalizationKey": "T-pUaXBch8CXFbD+Usqe+Zw7FrvGo=",
     "ParentObjectID": "10d91bf6964411ed9a8f047c16184f06"
   },
   "CardTags": [],

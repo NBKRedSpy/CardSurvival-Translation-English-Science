@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台太阳能发电机，可以产生电力。",
-    "LocalizationKey": "translate-45660b48-5fc5-411f-8eaa-19df8d25c211",
+    "LocalizationKey": "T-icTFiv3btAlPY9RMwT8cGWzDNWM=",
     "ParentObjectID": "68592a928867453aa1ad446ac9d97f5f"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "太阳能发电机-已通电",
-    "LocalizationKey": "translate-383d0656-ac28-4b17-921a-b84595922a45",
+    "LocalizationKey": "T-UWXGiIT8ZLeRH39JCARzX82eSy8=",
     "ParentObjectID": "68592a928867453aa1ad446ac9d97f5f"
   },
   "CardTags": [],

@@ -49,7 +49,7 @@
   },
   "GameName": {
     "DefaultText": "兰花效果",
-    "LocalizationKey": "translate-7b973cfc-629f-4ace-9416-48e7f3708271",
+    "LocalizationKey": "T-FRTfBQNzDe0Ki9UD9wuihwpLn+4=",
     "ParentObjectID": "d54c0355a17811ed83fdc475ab46ec3f"
   },
   "InvertedDirection": false,
@@ -173,7 +173,7 @@
       ],
       "GameName": {
         "DefaultText": "弱兰花效果",
-        "LocalizationKey": "translate-9e90eb63-eaf5-4fed-b883-ac47a3b5b13e",
+        "LocalizationKey": "T-1M1xgRJ/lrzpzDTTsQiWG+7B9Ik=",
         "ParentObjectID": "d54c0355a17811ed83fdc475ab46ec3f"
       },
       "GameOver": false,
@@ -297,7 +297,7 @@
       ],
       "GameName": {
         "DefaultText": "强兰花效果",
-        "LocalizationKey": "translate-86afb446-c770-4a87-bf0d-c1dba57fe33d",
+        "LocalizationKey": "T-LZlriixC7EgqO7ka8yW6Mz8daH8=",
         "ParentObjectID": "d54c0355a17811ed83fdc475ab46ec3f"
       },
       "GameOver": false,

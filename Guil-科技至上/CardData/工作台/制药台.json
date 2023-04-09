@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "我可以在这里制作药物",
-    "LocalizationKey": "translate-63dc6b14-7274-4bd9-8c73-5fc3fab1437d",
+    "LocalizationKey": "T-7370fveyJMiVaK3/ZvSPjJOlDdc=",
     "ParentObjectID": "dcb642ef99a211ed8fb0c475ab46ec3f"
   },
   "CardImage": {
@@ -119,7 +119,7 @@
       },
       "ActionName": {
         "DefaultText": "熬制姜茶",
-        "LocalizationKey": "translate-371f49ca-b25e-440a-b2da-70d662b2cabc",
+        "LocalizationKey": "T-P+zhpzY8OkzyRETlSYJD3IuUF4s=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -489,7 +489,7 @@
       },
       "ActionName": {
         "DefaultText": "制作芦荟膏",
-        "LocalizationKey": "translate-87e8a3fe-9c84-4ed0-b7f0-846e6e4b06ff",
+        "LocalizationKey": "T-e2GNrBKZYHPx4qTNWs37BOaQmjA=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -1028,7 +1028,7 @@
       },
       "ActionName": {
         "DefaultText": "熬制卡瓦制剂",
-        "LocalizationKey": "translate-fbbf8bac-c132-4851-a659-3801de4f7012",
+        "LocalizationKey": "T-8ekKu7zfhDxtj2j52JPb+QTIo4Y=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -1397,7 +1397,7 @@
       },
       "ActionName": {
         "DefaultText": "熬制蜘蛛兰制剂",
-        "LocalizationKey": "translate-53d3b7a6-8627-41c8-8a8b-21bf70e5c607",
+        "LocalizationKey": "T-U6XaM3bwxIk72EryYWnKxUq1wPk=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -1766,7 +1766,7 @@
       },
       "ActionName": {
         "DefaultText": "熬制兰花制剂",
-        "LocalizationKey": "translate-7d839564-1002-47d6-a0d0-f9302357604e",
+        "LocalizationKey": "T-FFulARlhK/ffR6m7MQQtvJXshaU=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -2134,7 +2134,7 @@
       },
       "ActionName": {
         "DefaultText": "熬制菊花制剂",
-        "LocalizationKey": "translate-b31765b4-d9da-45d7-ac2e-96865cbb1c48",
+        "LocalizationKey": "T-PvsNT9+Tinu2zmN8mFVdE3MlOAI=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -2502,7 +2502,7 @@
       },
       "ActionName": {
         "DefaultText": "接入电网",
-        "LocalizationKey": "translate-cbb52ef6-3075-42a3-ac89-8ff234b74354",
+        "LocalizationKey": "T-byXKiGBqDMaPAczTSvHnH4hk5Ck=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -2883,7 +2883,7 @@
       },
       "ActionName": {
         "DefaultText": "熬制精油",
-        "LocalizationKey": "translate-6bbeb4bf-2038-4712-bb4f-baeaca79e602",
+        "LocalizationKey": "T-gBKFF621ydVfbK/Hb4VBhj/i3O0=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -3388,7 +3388,7 @@
       },
       "ActionName": {
         "DefaultText": "熬制精油",
-        "LocalizationKey": "translate-6bbeb4bf-2038-4712-bb4f-baeaca79e602",
+        "LocalizationKey": "T-gBKFF621ydVfbK/Hb4VBhj/i3O0=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -3893,7 +3893,7 @@
       },
       "ActionName": {
         "DefaultText": "制作蛇草制剂",
-        "LocalizationKey": "translate-0e68af5c-9b0c-462b-9015-5e3d706601fd",
+        "LocalizationKey": "T-Zm0NIOncMh9OQF5BIbVO6v3r++8=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -4244,7 +4244,7 @@
   ],
   "CardName": {
     "DefaultText": "制药台",
-    "LocalizationKey": "translate-bc7ed7fd-e0ee-485c-94f6-e441d7379459",
+    "LocalizationKey": "T-TVgrplfBqeiPUUrWl0l6Pnyo1c4=",
     "ParentObjectID": "dcb642ef99a211ed8fb0c475ab46ec3f"
   },
   "CardTags": [],
@@ -4326,7 +4326,7 @@
       },
       "ActionName": {
         "DefaultText": "拆除",
-        "LocalizationKey": "translate-2b6c0c60-4f37-4c0c-9405-0f0b16cac57b",
+        "LocalizationKey": "T-5Vbc1DoG2wO5Cu6T4mTWzns33Yg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -4720,7 +4720,7 @@
     "Active": false,
     "CardStatName": {
       "DefaultText": "水",
-      "LocalizationKey": "translate-3edb3a8b-ca22-453b-9f9f-8269938055c1",
+      "LocalizationKey": "T-j/vxkpNKtwz80Ov8WJdYBEzut0s=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0,

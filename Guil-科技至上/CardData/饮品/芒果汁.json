@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "芒果榨成的果汁，可以喝。",
-    "LocalizationKey": "translate-8386e9f0-dead-47cc-abb9-7e8d7c6eec39",
+    "LocalizationKey": "T-JPFuzRwUunUczkFktHDC5BOUxp0=",
     "ParentObjectID": "a0370d629d6c11ed8332047c16184f06"
   },
   "CardImage": {
@@ -121,7 +121,7 @@
       },
       "ActionName": {
         "DefaultText": "制作杨枝甘露",
-        "LocalizationKey": "translate-8082a28d-9b1c-4e0b-bd9b-fbf9e8a5dead",
+        "LocalizationKey": "T-I7uqAOWpI+i7xprXqI8u1IrCSqE=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -453,7 +453,7 @@
   ],
   "CardName": {
     "DefaultText": "芒果汁",
-    "LocalizationKey": "translate-072c34c5-0b01-4e3e-8c73-929f4bd8b139",
+    "LocalizationKey": "T-ty0HkJP+XGkvO4kN5pCYOAgRevw=",
     "ParentObjectID": "a0370d629d6c11ed8332047c16184f06"
   },
   "CardTags": [],
@@ -535,7 +535,7 @@
       },
       "ActionName": {
         "DefaultText": "饮用",
-        "LocalizationKey": "translate-cae46078-6815-49d1-8d87-89c720b9f67f",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": "a0370d629d6c11ed8332047c16184f06"
       },
       "ActionSounds": [],

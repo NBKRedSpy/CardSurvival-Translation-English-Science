@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "小麦磨成的麦芽汁，可以进一步放入木桶中得到麦酒。",
-    "LocalizationKey": "translate-2bdbaee7-1307-4eb2-9a9e-dfa3d7c4995a",
+    "LocalizationKey": "T-q0MEBRJmKnDXFV8D40goV7YHgUc=",
     "ParentObjectID": "642bbb42a18711ed98f9c475ab46ec3f"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "麦芽汁",
-    "LocalizationKey": "translate-e05e8859-8f34-4f5d-b24f-93b968fc725a",
+    "LocalizationKey": "T-omz3mFFiZpFkEgotPRLmpibMJtQ=",
     "ParentObjectID": "642bbb42a18711ed98f9c475ab46ec3f"
   },
   "CardTags": [],

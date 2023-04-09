@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一位农夫，你可以用树叶与他交换牛奶。",
-    "LocalizationKey": "translate-8baf367f-ae25-4eec-8ef2-4105f079a414",
+    "LocalizationKey": "T-I67zu2Yo4dZjrC6YPPLP/Di8xq4=",
     "ParentObjectID": "756613bfe44c4ee7af9a59497e2766ad"
   },
   "CardImage": {
@@ -105,7 +105,7 @@
     {
       "ActionDescription": {
         "DefaultText": "将叶子当做饲料交于农夫",
-        "LocalizationKey": "translate-eb8e70ce-ada7-4123-b727-62ecdb8c3e8a",
+        "LocalizationKey": "T-jHrcDw68HcrGs4ImQQ/qNV5etMs=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -121,7 +121,7 @@
       },
       "ActionName": {
         "DefaultText": "递交",
-        "LocalizationKey": "translate-4e4c78c4-8dd1-4d71-a621-5f86fbefa980",
+        "LocalizationKey": "T-2LL0CwBSbjDispouI4mjHaZFxhM=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -451,7 +451,7 @@
   ],
   "CardName": {
     "DefaultText": "农夫",
-    "LocalizationKey": "translate-2f29d53c-bc3c-47ea-9b5c-8a08b0adb2da",
+    "LocalizationKey": "T-25+ILmgFP5jWWn4KfvZO9cUz9BU=",
     "ParentObjectID": "756613bfe44c4ee7af9a59497e2766ad"
   },
   "CardTags": [],
@@ -1031,7 +1031,7 @@
     "Active": true,
     "CardStatName": {
       "DefaultText": "饲料量",
-      "LocalizationKey": "translate-53a5eff2-a871-42b2-996a-8a520ba4a15e",
+      "LocalizationKey": "T-UJphUOg0ciED1LTn9jjZkJaPXo4=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0.0,
@@ -1043,7 +1043,7 @@
     "OnFull": {
       "ActionDescription": {
         "DefaultText": "换回牛奶",
-        "LocalizationKey": "translate-02b4891c-df57-471e-938b-617b5f46cc5c",
+        "LocalizationKey": "T-PNy3mmFcG9+lMt8GC4Oev8z0MLY=",
         "ParentObjectID": ""
       },
       "ActionLog": {
@@ -1059,7 +1059,7 @@
       },
       "ActionName": {
         "DefaultText": "换回",
-        "LocalizationKey": "translate-72ed4b42-b945-450c-a8ca-1ad7332d2e77",
+        "LocalizationKey": "T-UzXCdmV8pzwDLrDRfum3RexJisk=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],

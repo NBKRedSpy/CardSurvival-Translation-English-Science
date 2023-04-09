@@ -600,7 +600,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一盏路灯，建好后需要接入电网。",
-    "LocalizationKey": "translate-2b3c8c22-8ea8-4827-aad0-9aae01ef48d9",
+    "LocalizationKey": "T-mQQ4X1jN6/vcwTxifOJt1znuSWQ=",
     "ParentObjectID": "97fe7a5398b011eda03dc475ab46ec3f"
   },
   "CardImage": {
@@ -612,7 +612,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "路灯",
-    "LocalizationKey": "translate-6de8a744-5188-4ffc-bb49-408ff277f32b",
+    "LocalizationKey": "T-ohjjQmlhylL6SpNTooDzB5aC0d0=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -3785,7 +3785,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "需要更高级的石工技能",
-    "LocalizationKey": "translate-9e218453-fcb1-45fc-b06a-e7adc82e5235",
+    "LocalizationKey": "T-k826B+WsxWNPme918Ga3zALm00k=",
     "ParentObjectID": "97fe7a5398b011eda03dc475ab46ec3f"
   },
   "UsageDurability": {

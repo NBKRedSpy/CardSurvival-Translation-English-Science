@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "一座受到丰饶神祝福的岛屿。",
-    "LocalizationKey": "translate-56738073-d07f-4b94-b0a4-d8a4dd39bd05",
+    "LocalizationKey": "T-WVa1uYkJ/cGZPuFBzA1sJCHUpps=",
     "ParentObjectID": "27b6cab78aef4eff985624f2f3f78a84"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "诺菲卡岛",
-    "LocalizationKey": "translate-6f5d7158-f695-4d57-9a5b-b3e558363728",
+    "LocalizationKey": "T-Mm6oa8wzaoejZjIQpKWPZEerQ70=",
     "ParentObjectID": "27b6cab78aef4eff985624f2f3f78a84"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "探索",
-        "LocalizationKey": "translate-aacc7bb7-7191-4e30-a500-b5d8d3ed485d",
+        "LocalizationKey": "T-KRhjOsgRtvfjRiwhnw2VhbEq6+M=",
         "ParentObjectID": "27b6cab78aef4eff985624f2f3f78a84"
       },
       "ActionSounds": [],
@@ -659,7 +659,7 @@
         },
         "ActionName": {
           "DefaultText": "农夫",
-          "LocalizationKey": "translate-2f29d53c-bc3c-47ea-9b5c-8a08b0adb2da",
+          "LocalizationKey": "T-25+ILmgFP5jWWn4KfvZO9cUz9BU=",
           "ParentObjectID": "2eb21fd9cfd75cd408f587c0786b1705"
         },
         "ActionSounds": [],

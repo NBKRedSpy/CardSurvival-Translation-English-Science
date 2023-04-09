@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台火力发电机，可以产生电力。",
-    "LocalizationKey": "translate-5148e414-54d0-4d9b-9e39-71f0642d51c6",
+    "LocalizationKey": "T-rY9Bs3pxGXHHjOe6ep3AXCQFFck=",
     "ParentObjectID": "c753dee919de4667a4b97e66a4bb4654"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "火力发电机-已通电",
-    "LocalizationKey": "translate-87194a2b-81b1-4644-baaa-757b3936cd5d",
+    "LocalizationKey": "T-wguanZT/gnD+8H+LERb3A2tge+k=",
     "ParentObjectID": "c753dee919de4667a4b97e66a4bb4654"
   },
   "CardTags": [],

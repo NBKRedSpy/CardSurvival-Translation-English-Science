@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "处理过的芦荟汁，可以饮用。",
-    "LocalizationKey": "translate-6e3cb4ed-26d0-4703-9888-f4ff154f485f",
+    "LocalizationKey": "T-N69aRHSo5r/3W/hsN7p/nZ47AIw=",
     "ParentObjectID": "c42f6d4b971111eda2ba047c16184f06"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "芦荟汁",
-    "LocalizationKey": "translate-de12a2f3-89c6-47cf-a8f6-38bed2285a01",
+    "LocalizationKey": "T-+LPP6JaaViPp+s3meDWo/m/k7zk=",
     "ParentObjectID": "c42f6d4b971111eda2ba047c16184f06"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "饮用",
-        "LocalizationKey": "translate-cae46078-6815-49d1-8d87-89c720b9f67f",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": "c42f6d4b971111eda2ba047c16184f06"
       },
       "ActionSounds": [],

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台饮水机，可以烧开水并保温。",
-    "LocalizationKey": "translate-d3eea86e-b05c-4c6e-a41c-c44c47983dbf",
+    "LocalizationKey": "T-38V0k47xi8yjbMzSyvZuATugQ7M=",
     "ParentObjectID": "fac11b801955409a9dab2fd6df722a78"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "饮水机",
-    "LocalizationKey": "translate-ce71c540-a86b-4140-a007-e1dffb8c46d2",
+    "LocalizationKey": "T-nFeUQbrgOzCibaYQ7makhPXvY3s=",
     "ParentObjectID": "fac11b801955409a9dab2fd6df722a78"
   },
   "CardTags": [],
@@ -155,7 +155,7 @@
     {
       "ActionName": {
         "DefaultText": "煮开水",
-        "LocalizationKey": "translate-25ac9109-6e6b-4c65-8297-38ca948c0424",
+        "LocalizationKey": "T-tzpoCKrfaF+Z751CO123CPuFe14=",
         "ParentObjectID": ""
       },
       "CannotCookText": {
@@ -292,12 +292,12 @@
       },
       "CustomCookingText": {
         "DefaultText": "煮开水中……",
-        "LocalizationKey": "translate-0ad31bae-ef30-4264-b710-c428289b3a40",
+        "LocalizationKey": "T-T3e+EYxiSyT+KYQSWeI4PuhzGj0=",
         "ParentObjectID": ""
       },
       "CustomNotification": {
         "DefaultText": "水开了！",
-        "LocalizationKey": "translate-645a2923-92c6-4e35-854f-e0f3daa10ba1",
+        "LocalizationKey": "T-d9KRjufGwgmQwtGbacfFozON75M=",
         "ParentObjectID": ""
       },
       "Drops": [],
@@ -881,7 +881,7 @@
   ],
   "InventorySlotsText": {
     "DefaultText": "水",
-    "LocalizationKey": "translate-3edb3a8b-ca22-453b-9f9f-8269938055c1",
+    "LocalizationKey": "T-j/vxkpNKtwz80Ov8WJdYBEzut0s=",
     "ParentObjectID": ""
   },
   "IsDarkPlace": false,

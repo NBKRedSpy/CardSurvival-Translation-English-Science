@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "一个空调，可以调节房间的温度，现在在吹冷风。",
-    "LocalizationKey": "translate-31ee1616-6799-49a6-96d9-2cb684f0fda2",
+    "LocalizationKey": "T-JMwYPm5EfSJBQ9y5cXsJiDU4+qg=",
     "ParentObjectID": "671645ecb0744246908b2dbd6a9ee5a1"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "空调（制冷）",
-    "LocalizationKey": "translate-d662ac96-391d-4184-9fb5-6801aa30e4a7",
+    "LocalizationKey": "T-jBK7vYUxJ8VI2SyXYF+jyrluWSE=",
     "ParentObjectID": "671645ecb0744246908b2dbd6a9ee5a1"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "关空调",
-        "LocalizationKey": "translate-bf7cffd6-6bd2-4f59-815d-200be0c85861",
+        "LocalizationKey": "T-5Vt+O6c6vu89JduqQrESUg2HLRY=",
         "ParentObjectID": "4dcbd8e78ff411ed824ec475ab46ec3f"
       },
       "ActionSounds": [],
@@ -397,7 +397,7 @@
       },
       "ActionName": {
         "DefaultText": "改吹热风",
-        "LocalizationKey": "translate-0c41b849-2724-48da-a040-f0dff6364760",
+        "LocalizationKey": "T-exTUfU/OGwC/9WN5de+2SzShZmc=",
         "ParentObjectID": "4dcbd8e78ff411ed824ec475ab46ec3f"
       },
       "ActionSounds": [],

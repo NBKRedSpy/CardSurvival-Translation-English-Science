@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个研究台，我可以在这里绘制科技蓝图（通电后才能使用，请不要过早建造）。",
-    "LocalizationKey": "translate-2c1be3e4-17ae-4d37-9dd7-d400dc32db71",
+    "LocalizationKey": "T-llSbj8HMZVmUmd49Urc+S53SAwc=",
     "ParentObjectID": "7d8a6dd712d84552bc4ef98ee96de431"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "研究台",
-    "LocalizationKey": "translate-da2937d2-de92-417d-bb74-b625c71acad2",
+    "LocalizationKey": "T-ImIdEeQ8ZQeV/hMfCCPlxwebbgQ=",
     "ParentObjectID": ""
   },
   "CardTags": [],

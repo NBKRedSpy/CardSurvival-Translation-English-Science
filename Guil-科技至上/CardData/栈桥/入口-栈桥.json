@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "移动到栈桥。",
-    "LocalizationKey": "translate-fe7ab79d-2374-41e9-904e-8bb4a323ab79",
+    "LocalizationKey": "T-0m3NqHNsQBXGG7ECSi315x/zl08=",
     "ParentObjectID": "fff7f9e1fdce48b3bae1b84af456b57b"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "栈桥",
-    "LocalizationKey": "translate-1bacd11b-8aa0-42b6-a8d5-7b752b792be2",
+    "LocalizationKey": "T-4kNzm5ALRiWcJll35GQAnYtmeAc=",
     "ParentObjectID": "fff7f9e1fdce48b3bae1b84af456b57b"
   },
   "CardTags": [],
@@ -221,7 +221,7 @@
       "ExtraDurabilityModifications": [],
       "FadeMessage": {
         "DefaultText": "移动到栈桥……",
-        "LocalizationKey": "translate-10c9bc9c-4862-476c-970c-8d3f5d9108c0",
+        "LocalizationKey": "T-BFIcNkBK4oahrrzd5neycV3j7io=",
         "ParentObjectID": "fff7f9e1fdce48b3bae1b84af456b57b"
       },
       "FadeTips": false,

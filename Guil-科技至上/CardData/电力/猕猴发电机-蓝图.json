@@ -603,7 +603,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台猕猴发电机，可以产生电力。",
-    "LocalizationKey": "translate-08e26fe2-8d5c-4867-b16c-1be1cd16c824",
+    "LocalizationKey": "T-b4wol6Ys6gB2P3qh5XRB16+6CM0=",
     "ParentObjectID": "a4494b5a50ae41478114ac3525984997"
   },
   "CardImage": {
@@ -615,7 +615,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "猕猴发电机",
-    "LocalizationKey": "translate-f8ff73f3-0128-4a8e-a107-3f370648a672",
+    "LocalizationKey": "T-iTKq+Tmg4kHLaUgtmgMt/yC+tVE=",
     "ParentObjectID": "a4494b5a50ae41478114ac3525984997"
   },
   "CardTags": [],
@@ -3785,7 +3785,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "需要磁石",
-    "LocalizationKey": "translate-7dde2592-4cb2-471c-b2e6-2f0889133d7e",
+    "LocalizationKey": "T-sy2yBrvBVxCUKtAg28NuntdG3Zw=",
     "ParentObjectID": "a4494b5a50ae41478114ac3525984997"
   },
   "UsageDurability": {

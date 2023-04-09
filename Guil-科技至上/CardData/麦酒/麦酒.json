@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "由麦芽汁酿成的麦酒，可以喝。",
-    "LocalizationKey": "translate-e33ea0d0-6d71-462d-ba0e-3654258800ac",
+    "LocalizationKey": "T-Ok3mxSBNe4gcVkiIo8oRwW5evzg=",
     "ParentObjectID": "c9e207e6a18711edbb98c475ab46ec3f"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "麦酒",
-    "LocalizationKey": "translate-8c924f4b-6e01-4446-99f4-a286096ed277",
+    "LocalizationKey": "T-WP6q5HioEqHYwJXZeCd3dxTsNsE=",
     "ParentObjectID": "c9e207e6a18711edbb98c475ab46ec3f"
   },
   "CardTags": [],

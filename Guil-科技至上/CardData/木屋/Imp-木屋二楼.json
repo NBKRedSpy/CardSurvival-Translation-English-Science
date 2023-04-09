@@ -503,7 +503,7 @@
   },
   "CardDescription": {
     "DefaultText": "修建木屋二楼",
-    "LocalizationKey": "translate-d9cd9b79-9929-44ec-8c6e-418b0f4147c7",
+    "LocalizationKey": "T-VA3jbMslGCHO64GTOU1rqSmPelE=",
     "ParentObjectID": "688aea8755324a57ab8bb08e3967af92"
   },
   "CardImage": {
@@ -515,7 +515,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "修建二楼",
-    "LocalizationKey": "translate-19866231-a530-4fe1-bd41-33dded417bcd",
+    "LocalizationKey": "T-0/CwqSTkUOrj9DrbXwWidO4ZTUM=",
     "ParentObjectID": "688aea8755324a57ab8bb08e3967af92"
   },
   "CardTags": [],

@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "一个空调，可以调节房间的温度，但是我得先通电。",
-    "LocalizationKey": "translate-d7ce3ae4-b76a-4c7f-8789-bb8657e0772a",
+    "LocalizationKey": "T-WusijlHfigUJ/lls8qI14eU+usI=",
     "ParentObjectID": "37c3431081d14d6db6c7a0533a07d91c"
   },
   "CardImage": {
@@ -119,7 +119,7 @@
       },
       "ActionName": {
         "DefaultText": "接入电网",
-        "LocalizationKey": "translate-cbb52ef6-3075-42a3-ac89-8ff234b74354",
+        "LocalizationKey": "T-byXKiGBqDMaPAczTSvHnH4hk5Ck=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -484,7 +484,7 @@
   ],
   "CardName": {
     "DefaultText": "空调（没电）",
-    "LocalizationKey": "translate-6c1aec83-b3ac-4f5c-83eb-a44b17de0e1d",
+    "LocalizationKey": "T-IJRTsSA/UJ6MWOt+OUf5dNFTYSA=",
     "ParentObjectID": "37c3431081d14d6db6c7a0533a07d91c"
   },
   "CardTags": [],

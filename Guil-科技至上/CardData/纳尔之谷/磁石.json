@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一块磁石，是电力技术的核心。",
-    "LocalizationKey": "translate-702d9992-c0ca-4b95-893f-1c61f00ee9c1",
+    "LocalizationKey": "T-MHF5F293oBik9L1doERgcf4U8x8=",
     "ParentObjectID": "faa4e561935d11eda07dc475ab46ec3f"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "磁石",
-    "LocalizationKey": "translate-434eb4b6-ea2d-4992-9310-13cd33049bd5",
+    "LocalizationKey": "T-UCBgxLPnOwBdAaa243mNn8f3GWw=",
     "ParentObjectID": "faa4e561935d11eda07dc475ab46ec3f"
   },
   "CardTags": [],

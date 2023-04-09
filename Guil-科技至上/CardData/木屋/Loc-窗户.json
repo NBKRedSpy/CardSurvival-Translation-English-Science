@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一扇美丽的窗户",
-    "LocalizationKey": "translate-2183bac5-aac5-48f2-89a2-29f8d4b323d4",
+    "LocalizationKey": "T-7OYIuHjZ/H6aG6FRhrPMeSP6vUw=",
     "ParentObjectID": "565e2f444f4444bc87ba5918b5091244"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "窗户",
-    "LocalizationKey": "translate-29ab762b-44e6-497c-a36e-ad44f60dd356",
+    "LocalizationKey": "T-CPy8Dawb6DM4wbJkCWhKh6W3AhU=",
     "ParentObjectID": "565e2f444f4444bc87ba5918b5091244"
   },
   "CardTags": [],
@@ -188,7 +188,7 @@
       },
       "ActionName": {
         "DefaultText": "观景",
-        "LocalizationKey": "translate-d88d13d1-b550-469e-b650-269ab9b473b1",
+        "LocalizationKey": "T-gRp3EIGVr4V3b3bHHfls/ahsDsQ=",
         "ParentObjectID": "f72d28cc1e579f2479678fa30d227402"
       },
       "ActionSounds": [],

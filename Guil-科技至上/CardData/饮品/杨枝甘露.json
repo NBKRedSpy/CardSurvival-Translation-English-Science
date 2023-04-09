@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "芒果和椰肉混合而成的饮料，超级好喝！",
-    "LocalizationKey": "translate-8a54c1d5-e587-476c-a54c-c52318a5cac9",
+    "LocalizationKey": "T-tsOI8yF/HYvmVu4mnTLS7GhFrVI=",
     "ParentObjectID": "859ab0d5a18e11ed95a3c475ab46ec3f"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "杨枝甘露",
-    "LocalizationKey": "translate-65152797-91ef-4a3a-b4da-0073d9eb9cbe",
+    "LocalizationKey": "T-WnSfAzw74x3tzcshWRj19q03a4I=",
     "ParentObjectID": "859ab0d5a18e11ed95a3c475ab46ec3f"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "饮用",
-        "LocalizationKey": "translate-cae46078-6815-49d1-8d87-89c720b9f67f",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": "859ab0d5a18e11ed95a3c475ab46ec3f"
       },
       "ActionSounds": [],

@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "我可以在这里制作药物",
-    "LocalizationKey": "translate-63dc6b14-7274-4bd9-8c73-5fc3fab1437d",
+    "LocalizationKey": "T-7370fveyJMiVaK3/ZvSPjJOlDdc=",
     "ParentObjectID": "0a30b3a299a611edb351c475ab46ec3f"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "制药台",
-    "LocalizationKey": "translate-bc7ed7fd-e0ee-485c-94f6-e441d7379459",
+    "LocalizationKey": "T-TVgrplfBqeiPUUrWl0l6Pnyo1c4=",
     "ParentObjectID": ""
   },
   "CardTags": [],

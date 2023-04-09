@@ -490,7 +490,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "我可以在这里更快的进行简单的屠宰工作。",
-    "LocalizationKey": "translate-4a1cf8bb-fe64-4fbf-bb06-f3f948e311d3",
+    "LocalizationKey": "T-Vx3zhmzGyHDBKnfQoz0FPDl817A=",
     "ParentObjectID": "e12ba98d98d811edacdbc475ab46ec3f"
   },
   "CardImage": {
@@ -502,7 +502,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "屠宰台",
-    "LocalizationKey": "translate-3d19281d-871f-421f-a509-f525fbc469ab",
+    "LocalizationKey": "T-JlPYVVVvyMdYzTcEMQLLTAH179Q=",
     "ParentObjectID": ""
   },
   "CardTags": [],

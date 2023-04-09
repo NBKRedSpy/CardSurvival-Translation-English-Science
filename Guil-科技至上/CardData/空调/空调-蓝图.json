@@ -477,7 +477,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台空调！",
-    "LocalizationKey": "translate-f6731b4c-53ee-43fa-89b4-51725f392da9",
+    "LocalizationKey": "T-gLO2Z8R5QmsfEMiuNSHC9Fx2Wyc=",
     "ParentObjectID": "54b305abf6d14f0590f18322a3865fde"
   },
   "CardImage": {
@@ -489,7 +489,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "空调",
-    "LocalizationKey": "translate-462b6e37-5147-4a63-9572-c91ddc86eb24",
+    "LocalizationKey": "T-D0jlNVkWM2BQQdord6eGvZWktFQ=",
     "ParentObjectID": "54b305abf6d14f0590f18322a3865fde"
   },
   "CardTags": [],
@@ -3662,7 +3662,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "需要更高的制作技能",
-    "LocalizationKey": "translate-b0fef32c-1ab0-4882-a9be-0f616f4f89a1",
+    "LocalizationKey": "T-Oq6HExiUQp+01UmaUED6i5ty/5U=",
     "ParentObjectID": "54b305abf6d14f0590f18322a3865fde"
   },
   "UsageDurability": {

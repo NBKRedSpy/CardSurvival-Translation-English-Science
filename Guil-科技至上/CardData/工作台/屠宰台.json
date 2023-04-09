@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "我可以在这里更快的进行简单的屠宰工作。",
-    "LocalizationKey": "translate-4a1cf8bb-fe64-4fbf-bb06-f3f948e311d3",
+    "LocalizationKey": "T-Vx3zhmzGyHDBKnfQoz0FPDl817A=",
     "ParentObjectID": "f89efb8798d611ed9658c475ab46ec3f"
   },
   "CardImage": {
@@ -119,7 +119,7 @@
       },
       "ActionName": {
         "DefaultText": "屠宰",
-        "LocalizationKey": "translate-fd0b14cb-7908-4b00-a41b-ea71366de28a",
+        "LocalizationKey": "T-UzzrAXtVyMGUfbo8jP/WEHzpY7I=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -662,7 +662,7 @@
       },
       "ActionName": {
         "DefaultText": "切开",
-        "LocalizationKey": "translate-d13756cf-4165-4958-be58-80cf6aa5758f",
+        "LocalizationKey": "T-GrTQPOf24mGuMFnXDsivsPQi3Ls=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -1181,7 +1181,7 @@
       },
       "ActionName": {
         "DefaultText": "剥皮",
-        "LocalizationKey": "translate-b87bbe39-9360-4a82-b700-fdbd7d1aab85",
+        "LocalizationKey": "T-rJOrBqLh5pD2V5qHIywwmPkqTS4=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -1700,7 +1700,7 @@
       },
       "ActionName": {
         "DefaultText": "屠宰",
-        "LocalizationKey": "translate-fd0b14cb-7908-4b00-a41b-ea71366de28a",
+        "LocalizationKey": "T-UzzrAXtVyMGUfbo8jP/WEHzpY7I=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -2230,7 +2230,7 @@
       },
       "ActionName": {
         "DefaultText": "打开",
-        "LocalizationKey": "translate-7daf4a26-abb1-441f-ae1d-73df94e688fa",
+        "LocalizationKey": "T-ZfyB4WEZi8Zws8gGLIUZraaWRr0=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -2930,7 +2930,7 @@
       },
       "ActionName": {
         "DefaultText": "刮皮",
-        "LocalizationKey": "translate-0107bd27-be45-4fb1-8da0-4fe21f41dee5",
+        "LocalizationKey": "T-tpzk05qxo6VeEm/u6oXnV1kpqaU=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -3448,7 +3448,7 @@
       },
       "ActionName": {
         "DefaultText": "刮皮",
-        "LocalizationKey": "translate-0107bd27-be45-4fb1-8da0-4fe21f41dee5",
+        "LocalizationKey": "T-tpzk05qxo6VeEm/u6oXnV1kpqaU=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -3966,7 +3966,7 @@
       },
       "ActionName": {
         "DefaultText": "打开",
-        "LocalizationKey": "translate-7daf4a26-abb1-441f-ae1d-73df94e688fa",
+        "LocalizationKey": "T-ZfyB4WEZi8Zws8gGLIUZraaWRr0=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -4484,7 +4484,7 @@
       },
       "ActionName": {
         "DefaultText": "打开",
-        "LocalizationKey": "translate-7daf4a26-abb1-441f-ae1d-73df94e688fa",
+        "LocalizationKey": "T-ZfyB4WEZi8Zws8gGLIUZraaWRr0=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -5014,7 +5014,7 @@
       },
       "ActionName": {
         "DefaultText": "接入电网",
-        "LocalizationKey": "translate-cbb52ef6-3075-42a3-ac89-8ff234b74354",
+        "LocalizationKey": "T-byXKiGBqDMaPAczTSvHnH4hk5Ck=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -5397,7 +5397,7 @@
       },
       "ActionName": {
         "DefaultText": "屠宰",
-        "LocalizationKey": "translate-fd0b14cb-7908-4b00-a41b-ea71366de28a",
+        "LocalizationKey": "T-UzzrAXtVyMGUfbo8jP/WEHzpY7I=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -5928,7 +5928,7 @@
       },
       "ActionName": {
         "DefaultText": "屠宰",
-        "LocalizationKey": "translate-fd0b14cb-7908-4b00-a41b-ea71366de28a",
+        "LocalizationKey": "T-UzzrAXtVyMGUfbo8jP/WEHzpY7I=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -6442,7 +6442,7 @@
   ],
   "CardName": {
     "DefaultText": "屠宰台",
-    "LocalizationKey": "translate-3d19281d-871f-421f-a509-f525fbc469ab",
+    "LocalizationKey": "T-JlPYVVVvyMdYzTcEMQLLTAH179Q=",
     "ParentObjectID": "f89efb8798d611ed9658c475ab46ec3f"
   },
   "CardTags": [],
@@ -6524,7 +6524,7 @@
       },
       "ActionName": {
         "DefaultText": "拆除",
-        "LocalizationKey": "translate-2b6c0c60-4f37-4c0c-9405-0f0b16cac57b",
+        "LocalizationKey": "T-5Vbc1DoG2wO5Cu6T4mTWzns33Yg=",
         "ParentObjectID": ""
       },
       "ActionSounds": [],
@@ -10021,7 +10021,7 @@
     "Active": false,
     "CardStatName": {
       "DefaultText": "木材点数",
-      "LocalizationKey": "translate-fdeb2a07-eeac-45a8-bfbf-d2d4141a47bf",
+      "LocalizationKey": "T-gMgy3tItTTZ6cSYqYDoWFacz6VY=",
       "ParentObjectID": ""
     },
     "ExtraRateWhenEquipped": 0,

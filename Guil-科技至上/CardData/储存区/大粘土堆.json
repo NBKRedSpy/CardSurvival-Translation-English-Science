@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一大团粘土，我应该用东西把它打撒。",
-    "LocalizationKey": "translate-0b42ac5d-6574-4fd6-becc-bd0e1a44a14a",
+    "LocalizationKey": "T-wOwL/FdcjRGfQTHhAkM90FtOZJQ=",
     "ParentObjectID": "c792b560a1e811ed962bc475ab46ec3f"
   },
   "CardImage": {
@@ -121,7 +121,7 @@
       },
       "ActionName": {
         "DefaultText": "打撒",
-        "LocalizationKey": "translate-ba8d0002-d473-4ce4-97da-1db2d87982b3",
+        "LocalizationKey": "T-oSDVFZqyKCghOUZu61ZNz1wcQXU=",
         "ParentObjectID": "c792b560a1e811ed962bc475ab46ec3f"
       },
       "ActionSounds": [],
@@ -644,7 +644,7 @@
   ],
   "CardName": {
     "DefaultText": "大粘土团",
-    "LocalizationKey": "translate-07075c6c-e025-4de4-9e0c-4935adad24b2",
+    "LocalizationKey": "T-/ZUzqwxg1nD6d949W9hGJ4IT9XY=",
     "ParentObjectID": "c792b560a1e811ed962bc475ab46ec3f"
   },
   "CardTags": [],

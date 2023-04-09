@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "你研读了科技蓝图，但你没有在研究的项目，所以你浪费了你的时间和这张蓝图。",
-    "LocalizationKey": "translate-f04072e8-e915-41e5-af3a-36a23c38df5d",
+    "LocalizationKey": "T-jhT0svIIwG+6lLSY2VvFtfZyswM=",
     "ParentObjectID": "b157a8efec8f42af9de3838dc0e94ff7"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "科技蓝图-浪费",
-    "LocalizationKey": "translate-ab4eb209-2a95-4ceb-af91-64e8a5c0ebd8",
+    "LocalizationKey": "T-McB2BwB5ziSmMnP1jsTj1Tex76M=",
     "ParentObjectID": "b157a8efec8f42af9de3838dc0e94ff7"
   },
   "CardTags": [],
@@ -178,13 +178,13 @@
         },
         "LogText": {
           "DefaultText": "我研读了空的蓝图",
-          "LocalizationKey": "translate-25d66520-d7a8-4c36-be7a-3cb2ea2b6462",
+          "LocalizationKey": "T-/45viKbiQ9zRIIFPilWRYEOk6MY=",
           "ParentObjectID": "b157a8efec8f42af9de3838dc0e94ff7"
         }
       },
       "ActionName": {
         "DefaultText": "继续",
-        "LocalizationKey": "translate-5fe6ee19-a2e8-4993-b945-702287d0cf67",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": "b157a8efec8f42af9de3838dc0e94ff7"
       },
       "ActionSounds": [],

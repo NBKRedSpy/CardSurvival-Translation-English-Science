@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "中国人历来把兰花看做是高洁典雅的象征，并与“梅、竹、菊”并列，合称“四君子”。通常以“兰章”喻诗文之美，以“兰交”喻友谊之真。也有借兰来表达纯洁的爱情。",
-    "LocalizationKey": "translate-38327892-2c32-46e6-99c2-a3327dfb24b4",
+    "LocalizationKey": "T-gtdn+6JPSJ0e9bBpvU50PjhQwAY=",
     "ParentObjectID": "2324f76fa17711ed8172c475ab46ec3f"
   },
   "CardImage": {
@@ -458,7 +458,7 @@
   ],
   "CardName": {
     "DefaultText": "兰花",
-    "LocalizationKey": "translate-0fd5ca02-3509-4a8f-baf3-b098e91495f3",
+    "LocalizationKey": "T-IVpf33C0bckDgFn3j6HvMl89boo=",
     "ParentObjectID": "2324f76fa17711ed8172c475ab46ec3f"
   },
   "CardTags": [],

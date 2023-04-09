@@ -585,7 +585,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个精美好看的花桌，可以用来存放腐烂物及粪便，并用花香掩盖其臭味。",
-    "LocalizationKey": "translate-9c3d7bd0-f16d-4f88-82e5-e732d0067f85",
+    "LocalizationKey": "T-UujIR/b5BINuw8m2cw7ujeHMfkc=",
     "ParentObjectID": "a7b7f995a2d911ed8e81c475ab46ec3f"
   },
   "CardImage": {
@@ -597,7 +597,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "花桌",
-    "LocalizationKey": "translate-10af7733-cbff-4df5-84b7-a828d699b055",
+    "LocalizationKey": "T-amWrhoiBLLqz+LQpGTybtMbsS8g=",
     "ParentObjectID": ""
   },
   "CardTags": [],
@@ -3767,7 +3767,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "需要树叶",
-    "LocalizationKey": "translate-45e1f7b0-16fa-45fb-ab6f-085ef1567185",
+    "LocalizationKey": "T-3J0sd2uM6C1IIwRqKKh+oAMnjvc=",
     "ParentObjectID": "a7b7f995a2d911ed8e81c475ab46ec3f"
   },
   "UsageDurability": {

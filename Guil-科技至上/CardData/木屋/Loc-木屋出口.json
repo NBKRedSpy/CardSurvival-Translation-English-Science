@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "离开木屋",
-    "LocalizationKey": "translate-1793e276-f5fd-41cf-ba54-fdacde7ced76",
+    "LocalizationKey": "T-vrqWgX2jQCSiD6nSOxy/VeDOofQ=",
     "ParentObjectID": "5f3f1cba5c9b49c4ad29572a95fe591c"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "离开木屋",
-    "LocalizationKey": "translate-1793e276-f5fd-41cf-ba54-fdacde7ced76",
+    "LocalizationKey": "T-vrqWgX2jQCSiD6nSOxy/VeDOofQ=",
     "ParentObjectID": "5f3f1cba5c9b49c4ad29572a95fe591c"
   },
   "CardTags": [],
@@ -184,7 +184,7 @@
       },
       "ActionName": {
         "DefaultText": "离开木屋",
-        "LocalizationKey": "Guil_Muwu",
+        "LocalizationKey": "Guil_Muwu_Exit",
         "ParentObjectID": "f0a59b7f908842b7a4a867f567019de4"
       },
       "ActionSounds": [],

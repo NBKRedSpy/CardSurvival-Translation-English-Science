@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "处理过的兰花茶，蛮好喝的。",
-    "LocalizationKey": "translate-8c533567-1287-48fc-bafc-30bb85b885f5",
+    "LocalizationKey": "T-gHE9WEaiCeWT0XeUhOfm3Ak7kFc=",
     "ParentObjectID": "a18676d3a17a11edacbac475ab46ec3f"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "兰花制剂",
-    "LocalizationKey": "translate-19bae846-7fcc-44c2-ad6a-1c8b0ea8172b",
+    "LocalizationKey": "T-/yZ6Zy6gtrMzmMbRQQaoffeqUzg=",
     "ParentObjectID": "a18676d3a17a11edacbac475ab46ec3f"
   },
   "CardTags": [],
@@ -186,7 +186,7 @@
       },
       "ActionName": {
         "DefaultText": "饮用",
-        "LocalizationKey": "translate-cae46078-6815-49d1-8d87-89c720b9f67f",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": "a18676d3a17a11edacbac475ab46ec3f"
       },
       "ActionSounds": [],

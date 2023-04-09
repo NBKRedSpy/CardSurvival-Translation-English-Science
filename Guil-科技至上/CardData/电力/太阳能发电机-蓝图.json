@@ -707,7 +707,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一台太阳能发电机，可以产生电力。",
-    "LocalizationKey": "translate-45660b48-5fc5-411f-8eaa-19df8d25c211",
+    "LocalizationKey": "T-icTFiv3btAlPY9RMwT8cGWzDNWM=",
     "ParentObjectID": "d2fff23a3737420fa90e3af40315b406"
   },
   "CardImage": {
@@ -719,7 +719,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "太阳能发电机",
-    "LocalizationKey": "translate-7801b6dc-ea78-4bcc-a279-654df3f30937",
+    "LocalizationKey": "T-y6BGXxcbKf4D8V26DxvFhwxZ8nc=",
     "ParentObjectID": "d2fff23a3737420fa90e3af40315b406"
   },
   "CardTags": [],
@@ -3889,7 +3889,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "需要硅",
-    "LocalizationKey": "translate-5c56769d-1b0f-4344-a26b-b469bdfc5a3f",
+    "LocalizationKey": "T-4esbDvQ3uj3gnXRHv6Aby6IK6iw=",
     "ParentObjectID": "d2fff23a3737420fa90e3af40315b406"
   },
   "UsageDurability": {

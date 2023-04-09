@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一个密闭的保鲜，可以很好的保存其中的液体。",
-    "LocalizationKey": "translate-f998fe31-f231-4a6b-a236-92de6557ea4d",
+    "LocalizationKey": "T-1Ka0wjpcjRHTRdxNK07ppFBxbb8=",
     "ParentObjectID": "3cb5042684584696a78d2e0cc69295cb"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "保鲜桶",
-    "LocalizationKey": "translate-fb4acb39-b08e-457b-a622-233733f5bd45",
+    "LocalizationKey": "T-fKAc1ym23AODsXp5K6CfViPUdZg=",
     "ParentObjectID": "3cb5042684584696a78d2e0cc69295cb"
   },
   "CardTags": [],

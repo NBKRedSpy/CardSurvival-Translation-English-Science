@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "处理好的牛奶，可以喝。",
-    "LocalizationKey": "translate-acfef968-e53c-4fa8-a900-1a0c8c8a3ad8",
+    "LocalizationKey": "T-/lm3nmYmDNES2jljjzrd6zF54Vo=",
     "ParentObjectID": "5c376445d6c64b0cb2c848968c5c3a13"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "处理好的牛奶",
-    "LocalizationKey": "translate-1cd6dae5-4b15-4f38-bcc2-4e1abb90ce15",
+    "LocalizationKey": "T-vOD4AEGquLLglDwHmG6UIpgLYl0=",
     "ParentObjectID": "5c376445d6c64b0cb2c848968c5c3a13"
   },
   "CardTags": [],
@@ -191,7 +191,7 @@
       },
       "ActionName": {
         "DefaultText": "饮用",
-        "LocalizationKey": "translate-cae46078-6815-49d1-8d87-89c720b9f67f",
+        "LocalizationKey": "T-dZh6limxWBhNJc+0VQstnCG2Q5I=",
         "ParentObjectID": "5c376445d6c64b0cb2c848968c5c3a13"
       },
       "ActionSounds": [],

@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "菊花是中国十大名花之一，花中四君子（梅兰竹菊）之一，也是世界四大切花（菊花、月季、康乃馨、唐菖蒲）之一，产量居首。因菊花具有清寒傲雪的品格，才有陶渊明的“采菊东篱下，悠然见南山”的名句。",
-    "LocalizationKey": "translate-5402164f-a8b0-4ee5-b9d8-e399b28830c6",
+    "LocalizationKey": "T-BDN2bySPpgvvQy4C29G/8QscwSw=",
     "ParentObjectID": "dbbae7fca17c11edadfec475ab46ec3f"
   },
   "CardImage": {
@@ -458,7 +458,7 @@
   ],
   "CardName": {
     "DefaultText": "菊花",
-    "LocalizationKey": "translate-e23c2820-62db-4ce0-b917-97e4c4aef101",
+    "LocalizationKey": "T-ic4UP5N36s9uqCCjx7npfz7Qut4=",
     "ParentObjectID": "dbbae7fca17c11edadfec475ab46ec3f"
   },
   "CardTags": [],

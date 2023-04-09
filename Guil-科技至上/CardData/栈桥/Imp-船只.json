@@ -1010,7 +1010,7 @@
   },
   "CardDescription": {
     "DefaultText": "一艘小木船，我可以划船去更多岛屿。",
-    "LocalizationKey": "translate-abc313bb-8627-4633-93b0-98c369ebca63",
+    "LocalizationKey": "T-nhrlEURoZJvWSubU6x+l6MFEU7g=",
     "ParentObjectID": "d12b5224b1c5434684c2888d50772b7e"
   },
   "CardImage": {
@@ -1022,7 +1022,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "船只",
-    "LocalizationKey": "translate-0d790372-cc9f-4d14-bb68-daaf41929b97",
+    "LocalizationKey": "T-GxHamR5JF6L31kMVvXdIgIoopOQ=",
     "ParentObjectID": "d12b5224b1c5434684c2888d50772b7e"
   },
   "CardTags": [],

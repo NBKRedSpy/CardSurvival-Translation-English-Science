@@ -92,7 +92,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一张精致的科技蓝图，可以通过研读蓝图来加快研究进程（8TP）。",
-    "LocalizationKey": "translate-e172895a-0a3e-4d01-be73-c06c1761582f",
+    "LocalizationKey": "T-x2on4TZLnaCv3sggG447bvqTm9I=",
     "ParentObjectID": "144bc4907f10430d987bb1d70925211c"
   },
   "CardImage": {
@@ -104,7 +104,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "精致的科技蓝图",
-    "LocalizationKey": "translate-2b27c3ca-3abb-4974-b8f4-e38ae2caa1b7",
+    "LocalizationKey": "T-nSdmHxTi9hE6Ab+MYSvfqgF0XJk=",
     "ParentObjectID": "144bc4907f10430d987bb1d70925211c"
   },
   "CardTags": [],
@@ -190,7 +190,7 @@
       },
       "ActionName": {
         "DefaultText": "精读蓝图",
-        "LocalizationKey": "Guil-Lantu",
+        "LocalizationKey": "Guil-Lantu_A",
         "ParentObjectID": "7d9e4815a1ea11ed8602c475ab46ec3f"
       },
       "ActionSounds": [],

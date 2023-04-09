@@ -13,13 +13,13 @@
         },
         "LogText": {
           "DefaultText": "我种下了一些兰花",
-          "LocalizationKey": "translate-df11041b-ba13-47c8-86f5-5a72fc5bfad0",
+          "LocalizationKey": "T-UlXweCvVN8WfSfL9MMgzH0e8VJY=",
           "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
         }
       },
       "ActionName": {
         "DefaultText": "种植兰花",
-        "LocalizationKey": "translate-0f74150f-0664-4943-8f50-5e3f3847e857",
+        "LocalizationKey": "T-SffqPF5h+zOdaKumz9RpmmgjoZU=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],
@@ -380,13 +380,13 @@
         },
         "LogText": {
           "DefaultText": "我种下了一些菊花",
-          "LocalizationKey": "translate-fa15c84a-8cd2-4542-9311-30cb8cc38246",
+          "LocalizationKey": "T-Bfz5yWOE/7QcR7C1HcT5FNwGlJI=",
           "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
         }
       },
       "ActionName": {
         "DefaultText": "种植菊花",
-        "LocalizationKey": "translate-75a9dbfe-8a10-43db-bed8-8313d1a66a68",
+        "LocalizationKey": "T-95Q2et4K6+GoWCYgacz1mgHFA/E=",
         "ParentObjectID": "0308e91cdd2d6aa44a9ed0f8187f88d3"
       },
       "ActionSounds": [],

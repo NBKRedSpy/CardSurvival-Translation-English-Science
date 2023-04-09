@@ -408,7 +408,7 @@
   },
   "CardDescription": {
     "DefaultText": "修建院子",
-    "LocalizationKey": "translate-9a4b8e57-b032-466a-824d-42059d145191",
+    "LocalizationKey": "T-HOw+mbHWJqBbjNhHgLDLKT6jUaA=",
     "ParentObjectID": "3043d3b7446c4cea880564ead9bd93e4"
   },
   "CardImage": {
@@ -420,7 +420,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "修建院子",
-    "LocalizationKey": "translate-9a4b8e57-b032-466a-824d-42059d145191",
+    "LocalizationKey": "T-HOw+mbHWJqBbjNhHgLDLKT6jUaA=",
     "ParentObjectID": "3043d3b7446c4cea880564ead9bd93e4"
   },
   "CardTags": [],

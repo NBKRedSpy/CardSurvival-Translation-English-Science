@@ -90,7 +90,7 @@
   },
   "CardDescription": {
     "DefaultText": "你研读了科技蓝图，你的研究有了进展。",
-    "LocalizationKey": "translate-49626531-eeaa-44dc-9111-12559ea615c4",
+    "LocalizationKey": "T-+TlA/GO7Ztm7LGNLF4r8ZqcPRdE=",
     "ParentObjectID": "1c299faa61bd4479acce2820782b4518"
   },
   "CardImage": {
@@ -102,7 +102,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "科技蓝图-成功",
-    "LocalizationKey": "translate-5fcee70a-75f5-4d0f-a3a2-27ba88b1acb8",
+    "LocalizationKey": "T-leJf00Q21UhQ3V2Ch2UT7c3sb5U=",
     "ParentObjectID": "1c299faa61bd4479acce2820782b4518"
   },
   "CardTags": [],
@@ -178,13 +178,13 @@
         },
         "LogText": {
           "DefaultText": "我研读了蓝图。",
-          "LocalizationKey": "translate-864c222a-9fa8-49e3-be42-ac6ee881ed35",
+          "LocalizationKey": "T-ukoC0YfMJbYJQ9N3sEscA17hDzw=",
           "ParentObjectID": "1c299faa61bd4479acce2820782b4518"
         }
       },
       "ActionName": {
         "DefaultText": "继续",
-        "LocalizationKey": "translate-5fe6ee19-a2e8-4993-b945-702287d0cf67",
+        "LocalizationKey": "T-H8GvxcVe2MDMKPmXFbU8rOTDcig=",
         "ParentObjectID": "1c299faa61bd4479acce2820782b4518"
       },
       "ActionSounds": [],

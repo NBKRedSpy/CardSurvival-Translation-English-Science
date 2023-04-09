@@ -73,7 +73,7 @@
     "CategoryWarpType": 3,
     "LogText": {
       "DefaultText": "我制造了一座木屋！",
-      "LocalizationKey": "translate-039ab418-01f4-45a0-9d28-7f567600a571",
+      "LocalizationKey": "T-nSvKy4PJ1dnG7I8hzYDcf4xZ54A=",
       "ParentObjectID": "ac1faeb017f248acac4ac63d457c53fe"
     }
   },
@@ -1051,7 +1051,7 @@
   "CardBackgroundWarpType": 3,
   "CardDescription": {
     "DefaultText": "一栋宽敞的木屋",
-    "LocalizationKey": "translate-48ae318e-1bcc-49b4-b4f9-f548c81b3000",
+    "LocalizationKey": "T-Wi4QE1+vUFmc4RDx2i9cFrtj5Vo=",
     "ParentObjectID": "ac1faeb017f248acac4ac63d457c53fe"
   },
   "CardImage": {
@@ -1063,7 +1063,7 @@
   "CardInteractions": [],
   "CardName": {
     "DefaultText": "木屋",
-    "LocalizationKey": "translate-c15bd0ad-26d6-47cb-86f4-0a25a5699949",
+    "LocalizationKey": "T-PWKzMPEJl+OHupF3QZk3tYX3QfI=",
     "ParentObjectID": "ac1faeb017f248acac4ac63d457c53fe"
   },
   "CardTags": [],
@@ -4236,7 +4236,7 @@
   "UniqueOnBoard": false,
   "UnlockConditionsDesc": {
     "DefaultText": "需要更高的木工技能",
-    "LocalizationKey": "translate-0067b400-0bb0-4403-8ead-01038a08e968",
+    "LocalizationKey": "T-wQmGNc0sqFyy+ZamdpkNRu71OBw=",
     "ParentObjectID": "ac1faeb017f248acac4ac63d457c53fe"
   },
   "UsageDurability": {
