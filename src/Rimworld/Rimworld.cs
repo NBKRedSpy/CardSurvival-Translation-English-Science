@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
 using BepInEx;
+using BepInEx.Configuration;
 using BepInEx.Logging;
 using HarmonyLib;
 using LocalizationUtilities;
@@ -28,7 +29,9 @@ public class Rimworld : BaseUnityPlugin
     private static List<CardData> 找出液体s = new List<CardData>();
 
 	public static ManualLogSource ManualLogger { get; private set; }
-	private void Awake()
+
+    public ConfigEntry<bool> EnableDebugKeys { get; set; }
+    private void Awake()
 	{
 
         LocalizationStringUtility.Init(
@@ -38,7 +41,11 @@ public class Rimworld : BaseUnityPlugin
             Logger
         );
 
-		ManualLogger = Logger;
+		EnableDebugKeys = Config.Bind<bool>("Debug", nameof(EnableDebugKeys), false,
+			"If true, will enable the F6 and F9 debug keys.  如果为真，将启用F6和F9调试键。");
+
+
+        ManualLogger = Logger;
 
         花桌数量 = base.Config.Bind("Rimworld Setting", "HuaZhuoShuLiang", 1, "花桌每次的取出数量").Value;
 		Harmony harmony = new Harmony(base.Info.Metadata.GUID);
@@ -78,6 +85,11 @@ public class Rimworld : BaseUnityPlugin
 
 	private void Update()
 	{
+		if(!EnableDebugKeys.Value)
+		{
+			return;
+		}
+		
 		if (Input.GetKeyUp(KeyCode.F9))
 		{
 			GraphicsManager value = Traverse.Create(MBSingleton<GameManager>.Instance).Field("GameGraphics").GetValue<GraphicsManager>();
