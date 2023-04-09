@@ -6,12 +6,11 @@ using BepInEx;
 using BepInEx.Configuration;
 using BepInEx.Logging;
 using HarmonyLib;
-using LocalizationUtilities;
 using UnityEngine;
 
 namespace Rimworld;
 
-[BepInPlugin("Plugin.Rimworld", "Rimworld", "2.0.2")]
+[BepInPlugin("Plugin.Rimworld", "Rimworld", "2.1.0")]
 public class Rimworld : BaseUnityPlugin
 {
 	private static Dictionary<string, CardData> card_dict = new Dictionary<string, CardData>();
@@ -33,13 +32,6 @@ public class Rimworld : BaseUnityPlugin
     public ConfigEntry<bool> EnableDebugKeys { get; set; }
     private void Awake()
 	{
-
-        LocalizationStringUtility.Init(
-            Config.Bind<bool>("Debug", "LogCardInfo", false,
-                "If true, will output the localization keys for the cards. 如果为真，将输出卡片的本地化密钥。").Value,
-            Info.Location,
-            Logger
-        );
 
 		EnableDebugKeys = Config.Bind<bool>("Debug", nameof(EnableDebugKeys), false,
 			"If true, will enable the F6 and F9 debug keys.  如果为真，将启用F6和F9调试键。");
@@ -270,7 +262,7 @@ public class Rimworld : BaseUnityPlugin
 		{
 			CookingRecipe cookingRecipe = new CookingRecipe();
 			cookingRecipe.CannotCookText.DefaultText = "水不够！";
-			cookingRecipe.CannotCookText.SetLocalizationInfo();
+			cookingRecipe.CannotCookText.LocalizationKey = "T-DYdH3B7N25bX3Yv5kgB307rJU+w=";
 
             cookingRecipe.Conditions.RequiredDurabilityRanges.LiquidQuantityRange = new Vector2(280f, 9999f);
 			cookingRecipe.ActionName.DefaultText = "冷冻";
