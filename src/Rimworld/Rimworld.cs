@@ -3,51 +3,25 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
 using BepInEx;
-using BepInEx.Configuration;
-using BepInEx.Logging;
 using HarmonyLib;
-using LocalizationUtilities;
 using UnityEngine;
 
 namespace Rimworld;
 
-[BepInPlugin("Plugin.Guil-Science", "Guil-Science", "1.1.0")]
+[BepInPlugin("Plugin.Rimworld", "Rimworld", "1.0.0")]
 public class Rimworld : BaseUnityPlugin
 {
 	private static Dictionary<string, CardData> card_dict = new Dictionary<string, CardData>();
 
 	private static List<CardData> kilnBps = new List<CardData>();
 
-    /// <summary>
-	/// Number of flower tables
-	/// </summary>
-    public static int 花桌数量 = 1;
+	public static int 花桌数量 = 1;
 
-    /// <summary>
-    /// Find the liquids
-    /// </summary>
-    private static List<CardData> 找出液体s = new List<CardData>();
+	private static List<CardData> 找出液体s = new List<CardData>();
 
-	public static ManualLogSource ManualLogger { get; private set; }
-
-    public ConfigEntry<bool> EnableDebugKeys { get; set; }
-    private void Awake()
+	private void Awake()
 	{
-
-        LocalizationStringUtility.Init(
-            Config.Bind<bool>("Debug", "LogCardInfo", false,
-                "If true, will output the localization keys for the cards. 如果为真，将输出卡片的本地化密钥。").Value,
-            Info.Location,
-            Logger
-        );
-
-		EnableDebugKeys = Config.Bind<bool>("Debug", nameof(EnableDebugKeys), false,
-			"If true, will enable the F6 and F9 debug keys.  如果为真，将启用F6和F9调试键。");
-
-
-        ManualLogger = Logger;
-
-        花桌数量 = base.Config.Bind("Rimworld Setting", "HuaZhuoShuLiang", 1, "花桌每次的取出数量").Value;
+		花桌数量 = base.Config.Bind("Rimworld Setting", "HuaZhuoShuLiang", 1, "花桌每次的取出数量").Value;
 		Harmony harmony = new Harmony(base.Info.Metadata.GUID);
 		BindingFlags bindingAttr = BindingFlags.Instance | BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic;
 		try
@@ -85,11 +59,6 @@ public class Rimworld : BaseUnityPlugin
 
 	private void Update()
 	{
-		if(!EnableDebugKeys.Value)
-		{
-			return;
-		}
-		
 		if (Input.GetKeyUp(KeyCode.F9))
 		{
 			GraphicsManager value = Traverse.Create(MBSingleton<GameManager>.Instance).Field("GameGraphics").GetValue<GraphicsManager>();
@@ -124,9 +93,7 @@ public class Rimworld : BaseUnityPlugin
 
 	public static IEnumerator ARPatch(IEnumerator results, CardAction _Action, InGameCardBase _ReceivingCard, bool _FastMode, bool _ModifiersAlreadyCollected = false)
 	{
-        //研读蓝图 = Read the blueprint
-        //Change:  Changed to LocalizationKey since the the action name is always "研读蓝图" for this key.
-        if (_Action.ActionName.LocalizationKey == "Guil-Lantu_The")
+		if (_Action.ActionName == "研读蓝图" && _Action.ActionName.LocalizationKey == "Guil-Lantu")
 		{
 			Debug.Log("你研读了蓝图");
 			GraphicsManager guil = Traverse.Create(MBSingleton<GameManager>.Instance).Field("GameGraphics").GetValue<GraphicsManager>();
@@ -151,10 +118,7 @@ public class Rimworld : BaseUnityPlugin
 				GameManager.GiveCard(UniqueIDScriptable.GetFromID<CardData>("b157a8efec8f42af9de3838dc0e94ff7"), _Complete: false);
 			}
 		}
-
-        //Read a blueprint
-        //精读蓝图 == "Guil-Lantu_A"
-        if (_Action.ActionName.LocalizationKey == "Guil-Lantu_A")
+		if (_Action.ActionName == "精读蓝图" && _Action.ActionName.LocalizationKey == "Guil-Lantu")
 		{
 			Debug.Log("你精读了蓝图");
 			GraphicsManager guil2 = Traverse.Create(MBSingleton<GameManager>.Instance).Field("GameGraphics").GetValue<GraphicsManager>();
@@ -179,10 +143,7 @@ public class Rimworld : BaseUnityPlugin
 				GameManager.GiveCard(UniqueIDScriptable.GetFromID<CardData>("b157a8efec8f42af9de3838dc0e94ff7"), _Complete: false);
 			}
 		}
-
-        //Enter the wooden house. 
-        //"进入木屋" == "Guil_Muwu_Enter"
-        if (_Action.ActionName.LocalizationKey == "Guil_Muwu_Enter")
+		if (_Action.ActionName == "进入木屋" && _Action.ActionName.LocalizationKey == "Guil_Muwu")
 		{
 			string preEnvGUID = MBSingleton<GameManager>.Instance.CurrentEnvironmentCard.CardModel.UniqueID;
 			if (preEnvGUID != null)
@@ -194,9 +155,7 @@ public class Rimworld : BaseUnityPlugin
 				电力4.StalenessValues.Add(stalenessData);
 			}
 		}
-
-        //离开木屋 = Leave the wooden house
-        if (_Action.ActionName.LocalizationKey == "Guil_Muwu_Exit")
+		if (_Action.ActionName == "离开木屋" && _Action.ActionName.LocalizationKey == "Guil_Muwu")
 		{
 			GameStat 电力 = UniqueIDScriptable.GetFromID<GameStat>("c10e8c1add174a96987acf8684e3126d");
 			InGameStat 电力3 = MBSingleton<GameManager>.Instance.StatsDict[电力];
@@ -229,18 +188,10 @@ public class Rimworld : BaseUnityPlugin
 		return UniqueIDScriptable.GetFromID<CardData>(uniqueID);
 	}
 
-    /// <summary>
-	/// Consumption
-	/// </summary>
-	/// <param name="card"></param>
-	/// <returns></returns>
-    private static float 消耗电力(CardData card)
+	private static float 消耗电力(CardData card)
 	{
 		string text = card.name;
-
-
-        //-power ups
-        string key = text.Replace("-通电", "");
+		string key = text.Replace("-通电", "");
 		if (card_dict.TryGetValue(key, out var value))
 		{
 			if (value.CardInteractions.Length == 0)
@@ -250,9 +201,7 @@ public class Rimworld : BaseUnityPlugin
 			CardOnCardAction[] cardInteractions = value.CardInteractions;
 			foreach (CardOnCardAction cardOnCardAction in cardInteractions)
 			{
-                //Access to the grid.  Actions are only in .json.  Use translation key.
-				//key of: "T-byXKiGBqDMaPAczTSvHnH4hk5Ck=" == "接入电网" from there.
-                if (cardOnCardAction.ActionName.LocalizationKey == "T-byXKiGBqDMaPAczTSvHnH4hk5Ck=")
+				if (cardOnCardAction.ActionName.DefaultText == "接入电网")
 				{
 					return 0f - cardOnCardAction.StatModifications[0].ValueModifier.x;
 				}
@@ -261,8 +210,7 @@ public class Rimworld : BaseUnityPlugin
 		return -1f;
 	}
 
-    //Make ice
-    public static void 制冰(string 烹饪前guid, string 烹饪后guid)
+	public static void 制冰(string 烹饪前guid, string 烹饪后guid)
 	{
 		CardData cardData = utc(烹饪前guid);
 		CardData cardData2 = utc(烹饪后guid);
@@ -270,9 +218,7 @@ public class Rimworld : BaseUnityPlugin
 		{
 			CookingRecipe cookingRecipe = new CookingRecipe();
 			cookingRecipe.CannotCookText.DefaultText = "水不够！";
-			cookingRecipe.CannotCookText.SetLocalizationInfo();
-
-            cookingRecipe.Conditions.RequiredDurabilityRanges.LiquidQuantityRange = new Vector2(280f, 9999f);
+			cookingRecipe.Conditions.RequiredDurabilityRanges.LiquidQuantityRange = new Vector2(280f, 9999f);
 			cookingRecipe.ActionName.DefaultText = "冷冻";
 			cookingRecipe.ActionName.LocalizationKey = "Guil-更多水果_冷冻";
 			Array.Resize(ref cookingRecipe.CompatibleCards, 1);
@@ -416,17 +362,12 @@ public class Rimworld : BaseUnityPlugin
 			}
 			foreach (DismantleCardAction dismantleAction in value2.DismantleActions)
 			{
-                //tear down
-                //  "拆除" == "T-5Vbc1DoG2wO5Cu6T4mTWzns33Yg="
-                // Note - filtered above with StartsWith("Guil-科技至上_") check.
-                if (!(dismantleAction.ActionName.LocalizationKey == "T-5Vbc1DoG2wO5Cu6T4mTWzns33Yg="))
+				if (!(dismantleAction.ActionName.DefaultText == "拆除"))
 				{
 					continue;
 				}
-
 				dismantleAction.ConfirmPopup = true;
-				//-power ups
-                if (value2.name.EndsWith("-通电"))
+				if (value2.name.EndsWith("-通电"))
 				{
 					float num4 = 消耗电力(value2);
 					if (num4 > 0f)
@@ -440,8 +381,7 @@ public class Rimworld : BaseUnityPlugin
 					}
 				}
 			}
-
-        }
+		}
 		CardData fromID = UniqueIDScriptable.GetFromID<CardData>("01742fd8a0d04d0082ae05ca0d969ba6");
 		for (int l = 0; l < 找出液体s.Count; l++)
 		{
@@ -449,8 +389,7 @@ public class Rimworld : BaseUnityPlugin
 			Array.Resize(ref cardData5.PassiveEffects, cardData5.PassiveEffects.Length + 1);
 			cardData5.PassiveEffects[cardData5.PassiveEffects.Length - 1] = fromID.PassiveEffects[0];
 		}
-        //Make ice
-        制冰("425259cb06b869d45be2e7f1b5b54aff", "b1d69e1b95fd4244b66b1c89dd59f65b");
+		制冰("425259cb06b869d45be2e7f1b5b54aff", "b1d69e1b95fd4244b66b1c89dd59f65b");
 		制冰("5481d599322f41d3b88249442ec4e8c0", "d196f43d14014712a42d371145d586d5");
 		制冰("eb1c2d24e3a74870af79ba7fd8ba2868", "7ef0c448b98d4466945cfa4ba5cf7e69");
 	}
