@@ -11,7 +11,7 @@ using UnityEngine;
 
 namespace Rimworld;
 
-[BepInPlugin("Plugin.Rimworld", "Rimworld", "2.0.0")]
+[BepInPlugin("Plugin.Rimworld", "Rimworld", "2.0.1")]
 public class Rimworld : BaseUnityPlugin
 {
 	private static Dictionary<string, CardData> card_dict = new Dictionary<string, CardData>();
